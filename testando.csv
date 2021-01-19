@@ -1,0 +1,1570 @@
+0,Chamadas da Polícia,"Chamadas da Polícia
+",policecalls.csv
+0,"Dados de Mobilidade de Ônibus-11-03-2015(gps,paradas,validação)","O arquivo contem dados de mobilidade de ônibus do período 11-03-2015, contendo dados de GPS,paradas e validação. 
+",mobilitydataset.zip
+1,"Dados de Mobilidade de Ônibus-11-03-2015(gps,paradas,validação)","O arquivo contem dados de mobilidade de ônibus do período 11-03-2015, contendo dados de GPS,paradas e validação. 
+",busstops.csv
+2,"Dados de Mobilidade de Ônibus-11-03-2015(gps,paradas,validação)","O arquivo contem dados de mobilidade de ônibus do período 11-03-2015, contendo dados de GPS,paradas e validação. 
+",gps.csv
+3,"Dados de Mobilidade de Ônibus-11-03-2015(gps,paradas,validação)","O arquivo contem dados de mobilidade de ônibus do período 11-03-2015, contendo dados de GPS,paradas e validação. 
+",validation.csv
+0,Parques e Praças Urbanizados de Fortaleza,"KML demonstrativo com localização e denominação das Praças e Parques no Município de Fortaleza. (aviso: Arquivo dinâmico, podem ocorrer mudanças de nomenclatura ou urbanização...",pracaseparquespmf.kmz
+0,ZEPO,"Arquivo disponibilizado pela Seuma sobre Zona Especial do Projeto da Orla
+",zepo.csv
+1,ZEPO,"Arquivo disponibilizado pela Seuma sobre Zona Especial do Projeto da Orla
+",zepo.json
+2,ZEPO,"Arquivo disponibilizado pela Seuma sobre Zona Especial do Projeto da Orla
+",zepo.kml
+0,ZEPH,"Arquivo disbonibilizados pela Seuma sobre as Zonas Especiais de Preservação do Patrimônio Paisagístico, Histórico, Cultural e Arqueológico
+",zeph.csv
+1,ZEPH,"Arquivo disbonibilizados pela Seuma sobre as Zonas Especiais de Preservação do Patrimônio Paisagístico, Histórico, Cultural e Arqueológico
+",zeph.json
+2,ZEPH,"Arquivo disbonibilizados pela Seuma sobre as Zonas Especiais de Preservação do Patrimônio Paisagístico, Histórico, Cultural e Arqueológico
+",zeph.kml
+0,ZEDUS,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais de Dinamização Urbanística e Socioeconômica
+",zedus.csv
+1,ZEDUS,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais de Dinamização Urbanística e Socioeconômica
+",zedus.json
+2,ZEDUS,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais de Dinamização Urbanística e Socioeconômica
+",zedus.kml
+0,ZEI,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais Institucionais
+",zei.csv
+1,ZEI,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais Institucionais
+",zei.json
+2,ZEI,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais Institucionais
+",zei.kml
+0,ZEA,"Arquivos disponibilizados pela Seuma sobre as Zonas Especiais Ambientais 
+",zea.csv
+1,ZEA,"Arquivos disponibilizados pela Seuma sobre as Zonas Especiais Ambientais 
+",zea.json
+2,ZEA,"Arquivos disponibilizados pela Seuma sobre as Zonas Especiais Ambientais 
+",zea.kml
+0,Limite Bairros,"Arquivo disponibilizado pela SEFIN dos limites dos bairros de Fortaleza
+",limitebairro.csv
+1,Limite Bairros,"Arquivo disponibilizado pela SEFIN dos limites dos bairros de Fortaleza
+",limitebairro.json
+2,Limite Bairros,"Arquivo disponibilizado pela SEFIN dos limites dos bairros de Fortaleza
+",limitebairro.kml
+0,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",acfor.pdf
+1,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",agefis.pdf
+2,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",amc.pdf
+3,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",cac.pdf
+4,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",cemja.pdf
+5,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",cgm.pdf
+6,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",citinova.pdf
+7,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",clfor.pdf
+8,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",fmas.pdf
+9,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",fmjf.pdf
+10,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",fmjf.pdf
+11,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",funci.pdf
+12,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",fundema.pdf
+13,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",gabpref.pdf
+14,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",gabvice.pdf
+15,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",gmf.pdf
+16,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",habitafor.pdf
+17,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdeam.pdf
+18,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdebo.pdf
+19,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdgmbc.pdf
+20,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdgmjw.pdf
+21,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdgmm.pdf
+22,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdmjbo.pdf
+23,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hmdzan.pdf
+24,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hnsc.pdf
+25,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",ijf.pdf
+26,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",imparh.pdf
+27,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",iplanfor.pdf
+28,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",ipm.prev.pdf
+29,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",ipm.saude.pdf
+30,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",pgm.pdf
+31,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",procon.pdf
+32,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",scdh.pdf
+33,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",scsp.pdf
+34,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sde.pdf
+35,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",secel.pdf
+36,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",secultfor.pdf
+37,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sefin.pdf
+38,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",segov.pdf
+39,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",seinf.pdf
+40,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sepog.pdf
+41,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",seri.pdf
+42,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",serii.pdf
+43,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",seriii.pdf
+44,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",seriv.pdf
+45,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",serv.pdf
+46,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",servi.pdf
+47,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",serce.pdf
+48,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sesec.pdf
+49,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",setfor.pdf
+50,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",setra.pdf
+51,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",seuma.pdf
+52,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sme.pdf
+53,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sms.pdf
+54,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",urbfor.pdf
+55,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",port4482002.pdf
+0,Territórios da Cidadania,"Arquivo disponibilizado pela Ceps sobre territórios da cidadania
+",territoriosdacidadania.csv
+1,Territórios da Cidadania,"Arquivo disponibilizado pela Ceps sobre territórios da cidadania
+",territoriosdacidadania.json
+2,Territórios da Cidadania,"Arquivo disponibilizado pela Ceps sobre territórios da cidadania
+",territoriosdacidadania.kml
+0,Bairros Regionais,"Arquivo disponibilizado pela Sefin sobre os bairros regionais
+",bairrosregionais.csv
+1,Bairros Regionais,"Arquivo disponibilizado pela Sefin sobre os bairros regionais
+",bairrosregionais.json
+2,Bairros Regionais,"Arquivo disponibilizado pela Sefin sobre os bairros regionais
+",bairrosregionais.kml
+0,Bens Tombados,"Arquivo disponibilizado pela Secultfor dos bens tombados
+",benstombados.csv
+1,Bens Tombados,"Arquivo disponibilizado pela Secultfor dos bens tombados
+",benstombados.json
+2,Bens Tombados,"Arquivo disponibilizado pela Secultfor dos bens tombados
+",benstombados.kml
+0,Limite Regional,"Arquivo do Limite Regional
+",limiteregional.csv
+1,Limite Regional,"Arquivo do Limite Regional
+",limiteregional.json
+2,Limite Regional,"Arquivo do Limite Regional
+",limiteregional.kml
+0,Limite Municipal de Fortaleza,"Arquivos dos limite municipal de Fortaleza
+",limitemunicipaldefortaleza.csv
+1,Limite Municipal de Fortaleza,"Arquivos dos limite municipal de Fortaleza
+",limitemunicipaldefortaleza.json
+2,Limite Municipal de Fortaleza,"Arquivos dos limite municipal de Fortaleza
+",limitemunicipaldefortaleza.kml
+0,Limite de bairros com as informações para os mapas,"Arquivos sobre os limites dos bairros com as informações para os mapas
+",bairros.csv
+1,Limite de bairros com as informações para os mapas,"Arquivos sobre os limites dos bairros com as informações para os mapas
+",bairros.json
+2,Limite de bairros com as informações para os mapas,"Arquivos sobre os limites dos bairros com as informações para os mapas
+",bairros.kml
+0,Dados e Ações da Coordenadoria da Juventude Ref. 2015,"este conjunto de dados contém informações de localização das Praças de Juventude, CEUs, Cucas, Empreendimentos do Projeto Credjovem, Escolinhas de Surf do Projeto Juventude na...",dadosjuventude.xlsx
+0,Rede de Atenção e Cuidado de Fortaleza,"A Rede de Atenção e Cuidado de Fortaleza, no que diz respeito à temática Drogas e outras substâncias psicoativas, compreende diversas instituições sendo ONG’s, Organizações...",rededeatencaoecuidadosdefortaleza.pdf
+1,Rede de Atenção e Cuidado de Fortaleza,"A Rede de Atenção e Cuidado de Fortaleza, no que diz respeito à temática Drogas e outras substâncias psicoativas, compreende diversas instituições sendo ONG’s, Organizações...",rededeatencaoecuidadosdefortaleza.pdf
+0,Paradas de Ônibus - Ref. 03/2015,,paradasdeonibusdasrotas.xls
+1,Paradas de Ônibus - Ref. 03/2015,,paradasdeonibusdesabilitadas.txt
+2,Paradas de Ônibus - Ref. 03/2015,,paradasdeonibus.txt
+3,Paradas de Ônibus - Ref. 03/2015,,terminais.xls
+0,Chamadas da Polícia,"Chamadas da Polícia
+",policecalls.csv
+0,"Dados de Mobilidade de Ônibus-11-03-2015(gps,paradas,validação)","O arquivo contem dados de mobilidade de ônibus do período 11-03-2015, contendo dados de GPS,paradas e validação. 
+",mobilitydataset.zip
+1,"Dados de Mobilidade de Ônibus-11-03-2015(gps,paradas,validação)","O arquivo contem dados de mobilidade de ônibus do período 11-03-2015, contendo dados de GPS,paradas e validação. 
+",busstops.csv
+2,"Dados de Mobilidade de Ônibus-11-03-2015(gps,paradas,validação)","O arquivo contem dados de mobilidade de ônibus do período 11-03-2015, contendo dados de GPS,paradas e validação. 
+",gps.csv
+3,"Dados de Mobilidade de Ônibus-11-03-2015(gps,paradas,validação)","O arquivo contem dados de mobilidade de ônibus do período 11-03-2015, contendo dados de GPS,paradas e validação. 
+",validation.csv
+0,Parques e Praças Urbanizados de Fortaleza,"KML demonstrativo com localização e denominação das Praças e Parques no Município de Fortaleza. (aviso: Arquivo dinâmico, podem ocorrer mudanças de nomenclatura ou urbanização...",pracaseparquespmf.kmz
+0,ZEPO,"Arquivo disponibilizado pela Seuma sobre Zona Especial do Projeto da Orla
+",zepo.csv
+1,ZEPO,"Arquivo disponibilizado pela Seuma sobre Zona Especial do Projeto da Orla
+",zepo.json
+2,ZEPO,"Arquivo disponibilizado pela Seuma sobre Zona Especial do Projeto da Orla
+",zepo.kml
+0,ZEPH,"Arquivo disbonibilizados pela Seuma sobre as Zonas Especiais de Preservação do Patrimônio Paisagístico, Histórico, Cultural e Arqueológico
+",zeph.csv
+1,ZEPH,"Arquivo disbonibilizados pela Seuma sobre as Zonas Especiais de Preservação do Patrimônio Paisagístico, Histórico, Cultural e Arqueológico
+",zeph.json
+2,ZEPH,"Arquivo disbonibilizados pela Seuma sobre as Zonas Especiais de Preservação do Patrimônio Paisagístico, Histórico, Cultural e Arqueológico
+",zeph.kml
+0,ZEDUS,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais de Dinamização Urbanística e Socioeconômica
+",zedus.csv
+1,ZEDUS,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais de Dinamização Urbanística e Socioeconômica
+",zedus.json
+2,ZEDUS,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais de Dinamização Urbanística e Socioeconômica
+",zedus.kml
+0,ZEI,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais Institucionais
+",zei.csv
+1,ZEI,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais Institucionais
+",zei.json
+2,ZEI,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais Institucionais
+",zei.kml
+0,ZEA,"Arquivos disponibilizados pela Seuma sobre as Zonas Especiais Ambientais 
+",zea.csv
+1,ZEA,"Arquivos disponibilizados pela Seuma sobre as Zonas Especiais Ambientais 
+",zea.json
+2,ZEA,"Arquivos disponibilizados pela Seuma sobre as Zonas Especiais Ambientais 
+",zea.kml
+0,Limite Bairros,"Arquivo disponibilizado pela SEFIN dos limites dos bairros de Fortaleza
+",limitebairro.csv
+1,Limite Bairros,"Arquivo disponibilizado pela SEFIN dos limites dos bairros de Fortaleza
+",limitebairro.json
+2,Limite Bairros,"Arquivo disponibilizado pela SEFIN dos limites dos bairros de Fortaleza
+",limitebairro.kml
+0,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",acfor.pdf
+1,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",agefis.pdf
+2,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",amc.pdf
+3,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",cac.pdf
+4,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",cemja.pdf
+5,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",cgm.pdf
+6,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",citinova.pdf
+7,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",clfor.pdf
+8,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",fmas.pdf
+9,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",fmjf.pdf
+10,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",fmjf.pdf
+11,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",funci.pdf
+12,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",fundema.pdf
+13,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",gabpref.pdf
+14,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",gabvice.pdf
+15,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",gmf.pdf
+16,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",habitafor.pdf
+17,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdeam.pdf
+18,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdebo.pdf
+19,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdgmbc.pdf
+20,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdgmjw.pdf
+21,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdgmm.pdf
+22,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdmjbo.pdf
+23,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hmdzan.pdf
+24,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hnsc.pdf
+25,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",ijf.pdf
+26,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",imparh.pdf
+27,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",iplanfor.pdf
+28,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",ipm.prev.pdf
+29,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",ipm.saude.pdf
+30,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",pgm.pdf
+31,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",procon.pdf
+32,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",scdh.pdf
+33,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",scsp.pdf
+34,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sde.pdf
+35,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",secel.pdf
+36,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",secultfor.pdf
+37,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sefin.pdf
+38,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",segov.pdf
+39,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",seinf.pdf
+40,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sepog.pdf
+41,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",seri.pdf
+42,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",serii.pdf
+43,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",seriii.pdf
+44,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",seriv.pdf
+45,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",serv.pdf
+46,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",servi.pdf
+47,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",serce.pdf
+48,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sesec.pdf
+49,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",setfor.pdf
+50,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",setra.pdf
+51,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",seuma.pdf
+52,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sme.pdf
+53,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sms.pdf
+54,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",urbfor.pdf
+55,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",port4482002.pdf
+0,Territórios da Cidadania,"Arquivo disponibilizado pela Ceps sobre territórios da cidadania
+",territoriosdacidadania.csv
+1,Territórios da Cidadania,"Arquivo disponibilizado pela Ceps sobre territórios da cidadania
+",territoriosdacidadania.json
+2,Territórios da Cidadania,"Arquivo disponibilizado pela Ceps sobre territórios da cidadania
+",territoriosdacidadania.kml
+0,Bairros Regionais,"Arquivo disponibilizado pela Sefin sobre os bairros regionais
+",bairrosregionais.csv
+1,Bairros Regionais,"Arquivo disponibilizado pela Sefin sobre os bairros regionais
+",bairrosregionais.json
+2,Bairros Regionais,"Arquivo disponibilizado pela Sefin sobre os bairros regionais
+",bairrosregionais.kml
+0,Bens Tombados,"Arquivo disponibilizado pela Secultfor dos bens tombados
+",benstombados.csv
+1,Bens Tombados,"Arquivo disponibilizado pela Secultfor dos bens tombados
+",benstombados.json
+2,Bens Tombados,"Arquivo disponibilizado pela Secultfor dos bens tombados
+",benstombados.kml
+0,Limite Regional,"Arquivo do Limite Regional
+",limiteregional.csv
+1,Limite Regional,"Arquivo do Limite Regional
+",limiteregional.json
+2,Limite Regional,"Arquivo do Limite Regional
+",limiteregional.kml
+0,Limite Municipal de Fortaleza,"Arquivos dos limite municipal de Fortaleza
+",limitemunicipaldefortaleza.csv
+1,Limite Municipal de Fortaleza,"Arquivos dos limite municipal de Fortaleza
+",limitemunicipaldefortaleza.json
+2,Limite Municipal de Fortaleza,"Arquivos dos limite municipal de Fortaleza
+",limitemunicipaldefortaleza.kml
+0,Limite de bairros com as informações para os mapas,"Arquivos sobre os limites dos bairros com as informações para os mapas
+",bairros.csv
+1,Limite de bairros com as informações para os mapas,"Arquivos sobre os limites dos bairros com as informações para os mapas
+",bairros.json
+2,Limite de bairros com as informações para os mapas,"Arquivos sobre os limites dos bairros com as informações para os mapas
+",bairros.kml
+0,Dados e Ações da Coordenadoria da Juventude Ref. 2015,"este conjunto de dados contém informações de localização das Praças de Juventude, CEUs, Cucas, Empreendimentos do Projeto Credjovem, Escolinhas de Surf do Projeto Juventude na...",dadosjuventude.xlsx
+0,Rede de Atenção e Cuidado de Fortaleza,"A Rede de Atenção e Cuidado de Fortaleza, no que diz respeito à temática Drogas e outras substâncias psicoativas, compreende diversas instituições sendo ONG’s, Organizações...",rededeatencaoecuidadosdefortaleza.pdf
+1,Rede de Atenção e Cuidado de Fortaleza,"A Rede de Atenção e Cuidado de Fortaleza, no que diz respeito à temática Drogas e outras substâncias psicoativas, compreende diversas instituições sendo ONG’s, Organizações...",rededeatencaoecuidadosdefortaleza.pdf
+0,Paradas de Ônibus - Ref. 03/2015,,paradasdeonibusdasrotas.xls
+1,Paradas de Ônibus - Ref. 03/2015,,paradasdeonibusdesabilitadas.txt
+2,Paradas de Ônibus - Ref. 03/2015,,paradasdeonibus.txt
+3,Paradas de Ônibus - Ref. 03/2015,,terminais.xls
+0,Informações de Rotas de Ônibus - Ref. 03/2015,,pontosdecontrolederotas.xlsx
+1,Informações de Rotas de Ônibus - Ref. 03/2015,,rotasdosonibus.xls
+2,Informações de Rotas de Ônibus - Ref. 03/2015,,travessasdedicadasparadaserotas.xlsx
+3,Informações de Rotas de Ônibus - Ref. 03/2015,,travessasdedicadaspontos.xlsx
+0,Linhas de Ônibus - Ref. 03/2015,"Este conjunto de dados contém as linhas de ônibus referente a março de 2015
+",linha030siqueirapapicu13demaio.xls
+1,Linhas de Ônibus - Ref. 03/2015,"Este conjunto de dados contém as linhas de ônibus referente a março de 2015
+",linha038parangabapapicu.xls
+2,Linhas de Ônibus - Ref. 03/2015,"Este conjunto de dados contém as linhas de ônibus referente a março de 2015
+",linha050siqueirapapicuwashingtonsoares.xls
+3,Linhas de Ônibus - Ref. 03/2015,"Este conjunto de dados contém as linhas de ônibus referente a março de 2015
+",linha051grandecirculari.xlsx
+4,Linhas de Ônibus - Ref. 03/2015,"Este conjunto de dados contém as linhas de ônibus referente a março de 2015
+",linha051grandecircularii.xls
+5,Linhas de Ônibus - Ref. 03/2015,"Este conjunto de dados contém as linhas de ônibus referente a março de 2015
+",linha074antoniobezerraunifor.xls
+6,Linhas de Ônibus - Ref. 03/2015,"Este conjunto de dados contém as linhas de ônibus referente a março de 2015
+",linha075campusdopiciunifor.xls
+7,Linhas de Ônibus - Ref. 03/2015,"Este conjunto de dados contém as linhas de ônibus referente a março de 2015
+",linha077parangabamucuripe.xls
+0,Matrícula Escolar (2015) - Por Escola,"Este conjunto de dados representa a matrícula do senso escolar (oficial) das unidades da rede municipal, estratificada por nível de ensino e ano (2015)
+",01matriculascensoescolar2015oficial11.xlsx
+0,Balancetes (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 12-2015
+",rx201512.txt
+1,Balancetes (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 12-2015
+",dx201512.bal
+2,Balancetes (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 12-2015
+",br201512.txt
+3,Balancetes (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 12-2015
+",bd201512.txt
+4,Balancetes (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 12-2015
+",documentacaoreferenteaosbalancetes.pdf
+0,Informações Básicas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 12-2015
+",od201512.txt
+1,Informações Básicas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 12-2015
+",ge201512.txt
+2,Informações Básicas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 12-2015
+",cb201512.txt
+3,Informações Básicas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 12-2015
+",documentacaodeinformacoesbasicas.pdf
+0,Aberturas de Créditos Adicionais (SIM) - Ref. 12-2015,"Este conjunto de dados contem informações referente a abertura de crédito adicionais (Sistema de Informações Municipais) - ref. 12-2015
+",fa201512.txt
+1,Aberturas de Créditos Adicionais (SIM) - Ref. 12-2015,"Este conjunto de dados contem informações referente a abertura de crédito adicionais (Sistema de Informações Municipais) - ref. 12-2015
+",ca201512.txt
+2,Aberturas de Créditos Adicionais (SIM) - Ref. 12-2015,"Este conjunto de dados contem informações referente a abertura de crédito adicionais (Sistema de Informações Municipais) - ref. 12-2015
+",documentacaoreferenteaaberturadecreditosadicionais.pdf
+0,Documentação de Controle (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 12-2015
+",rc201512.txt
+1,Documentação de Controle (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 12-2015
+",documentacaodecontrole.pdf
+0,Documentação Comprobatória de Despesas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 12-2015
+",xe201512.txt
+1,Documentação Comprobatória de Despesas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 12-2015
+",xd201512.txt
+2,Documentação Comprobatória de Despesas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 12-2015
+",pf201512.txt
+3,Documentação Comprobatória de Despesas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 12-2015
+",np201512.txt
+4,Documentação Comprobatória de Despesas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 12-2015
+",nf201512.txt
+5,Documentação Comprobatória de Despesas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 12-2015
+",ne201512.txt
+6,Documentação Comprobatória de Despesas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 12-2015
+",lq201512.txt
+7,Documentação Comprobatória de Despesas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 12-2015
+",if201512.txt
+8,Documentação Comprobatória de Despesas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 12-2015
+",el201512.txt
+9,Documentação Comprobatória de Despesas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 12-2015
+",eg201512.txt
+10,Documentação Comprobatória de Despesas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 12-2015
+",dp201512.txt
+11,Documentação Comprobatória de Despesas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 12-2015
+",cp201512.txt
+12,Documentação Comprobatória de Despesas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 12-2015
+",ae201512.txt
+13,Documentação Comprobatória de Despesas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 12-2015
+",documentacaocomprobatoriadedespesas.pdf
+0,Documentação Comprobatória de Receitas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 12-2015
+",tx201512.txt
+1,Documentação Comprobatória de Receitas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 12-2015
+",tr201512.txt
+2,Documentação Comprobatória de Receitas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 12-2015
+",at201512.txt
+3,Documentação Comprobatória de Receitas (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 12-2015
+",documentacaocomprobatoriadereceitas.pdf
+0,Processo de Aquisição e Contratos (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 12-2015
+",tl201512.txt
+1,Processo de Aquisição e Contratos (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 12-2015
+",pe201512.txt
+2,Processo de Aquisição e Contratos (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 12-2015
+",mc201512.txt
+3,Processo de Aquisição e Contratos (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 12-2015
+",lt201512.txt
+4,Processo de Aquisição e Contratos (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 12-2015
+",li201512.txt
+5,Processo de Aquisição e Contratos (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 12-2015
+",dl201512.txt
+6,Processo de Aquisição e Contratos (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 12-2015
+",ct201512.txt
+7,Processo de Aquisição e Contratos (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 12-2015
+",co201512.txt
+8,Processo de Aquisição e Contratos (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 12-2015
+",cl201512.txt
+9,Processo de Aquisição e Contratos (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 12-2015
+",documentacaoreferenteaprocessosdeaquisicoesecontratos.pdf
+0,Orçamento Municipal (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 12-2015
+",re201512.txt
+1,Orçamento Municipal (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 12-2015
+",ep201512.txt
+2,Orçamento Municipal (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 12-2015
+",de201512.txt
+3,Orçamento Municipal (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 12-2015
+",documentacaodeinformacoesaoorcamentomunicipal.pdf
+0,Outros Tipos de Documentos (SIM) - Ref. 12-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 12-2015
+",tf201512.txt
+1,Outros Tipos de Documentos (SIM) - Ref. 12-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 12-2015
+",da201512.txt
+2,Outros Tipos de Documentos (SIM) - Ref. 12-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 12-2015
+",outrostiposdedocumentos.pdf
+0,Controle do Patrimônio Municipal (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 12-2015
+",bp201512.txt
+1,Controle do Patrimônio Municipal (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 12-2015
+",bp201512.txt
+2,Controle do Patrimônio Municipal (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 12-2015
+",bn201512.txt
+3,Controle do Patrimônio Municipal (SIM) - Ref. 12-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 12-2015
+",documentacaodecontroledopatrimoniomunicipal.pdf
+0,Balancetes (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 11-2015
+",rx201511.txt
+1,Balancetes (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 11-2015
+",dx201511.txt
+2,Balancetes (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 11-2015
+",br201511.txt
+3,Balancetes (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 11-2015
+",bd201511.txt
+4,Balancetes (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 11-2015
+",documentacaoreferenteaosbalancetes.pdf
+0,Informações Básicas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 11-2015
+",od201511.txt
+1,Informações Básicas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 11-2015
+",cb201511.txt
+2,Informações Básicas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 11-2015
+",documentacaodeinformacoesbasicas.pdf
+0,Aberturas de Créditos Adicionais (SIM) - Ref. 11-2015,"Este conjunto de dados contem informações referente a abertura de crédito adicionais (Sistema de Informações Municipais) - ref. 11-2015
+",fa201511.txt
+1,Aberturas de Créditos Adicionais (SIM) - Ref. 11-2015,"Este conjunto de dados contem informações referente a abertura de crédito adicionais (Sistema de Informações Municipais) - ref. 11-2015
+",ca201511.txt
+2,Aberturas de Créditos Adicionais (SIM) - Ref. 11-2015,"Este conjunto de dados contem informações referente a abertura de crédito adicionais (Sistema de Informações Municipais) - ref. 11-2015
+",documentacaoreferenteaaberturadecreditosadicionais.pdf
+0,Documentação de Controle (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 11-2015
+",rc201511.txt
+1,Documentação de Controle (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 11-2015
+",documentacaodecontrole.pdf
+0,Documentação Comprobatória de Despesas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 11-2015
+",xe201511.txt
+1,Documentação Comprobatória de Despesas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 11-2015
+",xd201511.txt
+2,Documentação Comprobatória de Despesas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 11-2015
+",pf201511.txt
+3,Documentação Comprobatória de Despesas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 11-2015
+",np201511.txt
+4,Documentação Comprobatória de Despesas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 11-2015
+",nf201511.txt
+5,Documentação Comprobatória de Despesas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 11-2015
+",ne201511.txt
+6,Documentação Comprobatória de Despesas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 11-2015
+",lq201511.txt
+7,Documentação Comprobatória de Despesas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 11-2015
+",if201511.txt
+8,Documentação Comprobatória de Despesas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 11-2015
+",el201511.txt
+9,Documentação Comprobatória de Despesas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 11-2015
+",eg201511.txt
+10,Documentação Comprobatória de Despesas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 11-2015
+",dp201511.txt
+11,Documentação Comprobatória de Despesas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 11-2015
+",cp201511.txt
+12,Documentação Comprobatória de Despesas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 11-2015
+",ae201511.txt
+13,Documentação Comprobatória de Despesas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 11-2015
+",documentacaocomprobatoriadedespesas.pdf
+0,Documentação Comprobatória de Receitas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 11-2015
+",tx201511.txt
+1,Documentação Comprobatória de Receitas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 11-2015
+",tr201511.txt
+2,Documentação Comprobatória de Receitas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 11-2015
+",at201511.txt
+3,Documentação Comprobatória de Receitas (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 11-2015
+",documentacaocomprobatoriadereceitas.pdf
+0,Processo de Aquisição e Contratos (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 11-2015
+",tl201511.txt
+1,Processo de Aquisição e Contratos (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 11-2015
+",pe201511.txt
+2,Processo de Aquisição e Contratos (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 11-2015
+",mc201511.txt
+3,Processo de Aquisição e Contratos (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 11-2015
+",lt201511.txt
+4,Processo de Aquisição e Contratos (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 11-2015
+",li201511.txt
+5,Processo de Aquisição e Contratos (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 11-2015
+",ct201511.txt
+6,Processo de Aquisição e Contratos (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 11-2015
+",cl201511.txt
+7,Processo de Aquisição e Contratos (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 11-2015
+",documentacaoreferenteaprocessosdeaquisicoesecontratos.pdf
+0,Orçamento Municipal (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 11-2015
+",re201511.txt
+1,Orçamento Municipal (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 11-2015
+",ep201511.txt
+2,Orçamento Municipal (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 11-2015
+",de201511.txt
+3,Orçamento Municipal (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 11-2015
+",documentacaodeinformacoesaoorcamentomunicipal.pdf
+0,Outros Tipos de Documentos (SIM) - Ref. 11-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 11-2015
+",tf201511.txt
+1,Outros Tipos de Documentos (SIM) - Ref. 11-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 11-2015
+",da201511.txt
+2,Outros Tipos de Documentos (SIM) - Ref. 11-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 11-2015
+",outrostiposdedocumentos.pdf
+0,Controle do Patrimônio Municipal (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 11-2015
+",bp201511.txt
+1,Controle do Patrimônio Municipal (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 11-2015
+",bo201511.txt
+2,Controle do Patrimônio Municipal (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 11-2015
+",bn201511.txt
+3,Controle do Patrimônio Municipal (SIM) - Ref. 11-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 11-2015
+",documentacaodecontroledopatrimoniomunicipal.pdf
+0,Mapa da Estrutura de Fortaleza - Assentamentos Precários em App,"Este mapa contém os assentamentos precários em App
+",assentamentosprecariosemapp.cst
+1,Mapa da Estrutura de Fortaleza - Assentamentos Precários em App,"Este mapa contém os assentamentos precários em App
+",assentamentosprecariosemapp.dbf
+2,Mapa da Estrutura de Fortaleza - Assentamentos Precários em App,"Este mapa contém os assentamentos precários em App
+",assentamentosprecariosemapp.prj
+3,Mapa da Estrutura de Fortaleza - Assentamentos Precários em App,"Este mapa contém os assentamentos precários em App
+",assentamentosprecariosemapp.shp
+4,Mapa da Estrutura de Fortaleza - Assentamentos Precários em App,"Este mapa contém os assentamentos precários em App
+",assentamentosprecariosemapp.shx
+5,Mapa da Estrutura de Fortaleza - Assentamentos Precários em App,"Este mapa contém os assentamentos precários em App
+",assentamentosprecariosemapp.txt
+0,Mapa da Estrutura de Fortaleza - Assentamentos Precários em Aberturas de Vias...,"Este mapa contém os assentamentos precários em aberturas de vias e faixas de domínio
+",assentamentosprecariosemaberturadeviasefaixasdedominio.cst
+1,Mapa da Estrutura de Fortaleza - Assentamentos Precários em Aberturas de Vias...,"Este mapa contém os assentamentos precários em aberturas de vias e faixas de domínio
+",assentamentosprecariosemaberturadeviasefaixasdedominio.dbf
+2,Mapa da Estrutura de Fortaleza - Assentamentos Precários em Aberturas de Vias...,"Este mapa contém os assentamentos precários em aberturas de vias e faixas de domínio
+",assentamentosprecariosemaberturadeviasefaixasdedominio.prj
+3,Mapa da Estrutura de Fortaleza - Assentamentos Precários em Aberturas de Vias...,"Este mapa contém os assentamentos precários em aberturas de vias e faixas de domínio
+",assentamentosprecariosemaberturadeviasefaixasdedominio.shp
+4,Mapa da Estrutura de Fortaleza - Assentamentos Precários em Aberturas de Vias...,"Este mapa contém os assentamentos precários em aberturas de vias e faixas de domínio
+",assentamentosprecariosemaberturadeviasefaixasdedominio.shx
+5,Mapa da Estrutura de Fortaleza - Assentamentos Precários em Aberturas de Vias...,"Este mapa contém os assentamentos precários em aberturas de vias e faixas de domínio
+",assentamentosprecariosemaberturadeviasefaixasdedominio.txt
+0,Mapa da Estrutura de Fortaleza - Área Edificada Serviços,"Este mapa contém a área serviços edificada de Fortaleza em m²
+",mapaareaedificadam2servicosfortaleza.cst
+1,Mapa da Estrutura de Fortaleza - Área Edificada Serviços,"Este mapa contém a área serviços edificada de Fortaleza em m²
+",mapaareaedificadam2servicosfortaleza.dbf
+2,Mapa da Estrutura de Fortaleza - Área Edificada Serviços,"Este mapa contém a área serviços edificada de Fortaleza em m²
+",mapaareaedificadam2servicosfortaleza.prj
+3,Mapa da Estrutura de Fortaleza - Área Edificada Serviços,"Este mapa contém a área serviços edificada de Fortaleza em m²
+",mapaareaedificadam2servicosfortaleza.shp
+4,Mapa da Estrutura de Fortaleza - Área Edificada Serviços,"Este mapa contém a área serviços edificada de Fortaleza em m²
+",mapaareaedificadam2servicosfortaleza.shx
+5,Mapa da Estrutura de Fortaleza - Área Edificada Serviços,"Este mapa contém a área serviços edificada de Fortaleza em m²
+",mapaareaedificadam2servicosfortaleza.txt
+0,Mapa da Estrutura de Fortaleza - Área Edificada Residencial,"Este mapa contém a área residencial edificada de Fortaleza em m²
+",mapaareaedificadam2residencialfortaleza.cst
+1,Mapa da Estrutura de Fortaleza - Área Edificada Residencial,"Este mapa contém a área residencial edificada de Fortaleza em m²
+",mapaareaedificadam2residencialfortaleza.dbf
+2,Mapa da Estrutura de Fortaleza - Área Edificada Residencial,"Este mapa contém a área residencial edificada de Fortaleza em m²
+",mapaareaedificadam2residencialfortaleza.prj
+3,Mapa da Estrutura de Fortaleza - Área Edificada Residencial,"Este mapa contém a área residencial edificada de Fortaleza em m²
+",mapaareaedificadam2residencialfortaleza.shp
+4,Mapa da Estrutura de Fortaleza - Área Edificada Residencial,"Este mapa contém a área residencial edificada de Fortaleza em m²
+",mapaareaedificadam2residencialfortaleza.shx
+5,Mapa da Estrutura de Fortaleza - Área Edificada Residencial,"Este mapa contém a área residencial edificada de Fortaleza em m²
+",mapaareaedificadam2residencialfortaleza.txt
+0,Mapa da Estrutura de Fortaleza - Área Edificada Industrial,"Este mapa contém a área industrial edificada de Fortaleza em m²
+",mapaareaedificadam2industrialfortaleza.cst
+1,Mapa da Estrutura de Fortaleza - Área Edificada Industrial,"Este mapa contém a área industrial edificada de Fortaleza em m²
+",mapaareaedificadam2industrialfortaleza.dbf
+2,Mapa da Estrutura de Fortaleza - Área Edificada Industrial,"Este mapa contém a área industrial edificada de Fortaleza em m²
+",mapaareaedificadam2industrialfortaleza.prj
+3,Mapa da Estrutura de Fortaleza - Área Edificada Industrial,"Este mapa contém a área industrial edificada de Fortaleza em m²
+",mapaareaedificadam2industrialfortaleza.shp
+4,Mapa da Estrutura de Fortaleza - Área Edificada Industrial,"Este mapa contém a área industrial edificada de Fortaleza em m²
+",mapaareaedificadam2industrialfortaleza.shx
+5,Mapa da Estrutura de Fortaleza - Área Edificada Industrial,"Este mapa contém a área industrial edificada de Fortaleza em m²
+",mapaareaedificadam2industrialfortaleza.txt
+0,Mapa da Estrutura de Fortaleza - Área Edificada Comercial,"Este mapa a área comercial edificada de Fortaleza em m²
+",mapaareaedificadam2comercialfortaleza.cst
+1,Mapa da Estrutura de Fortaleza - Área Edificada Comercial,"Este mapa a área comercial edificada de Fortaleza em m²
+",mapaareaedificadam2comercialfortaleza.dbf
+2,Mapa da Estrutura de Fortaleza - Área Edificada Comercial,"Este mapa a área comercial edificada de Fortaleza em m²
+",mapaareaedificadam2comercialfortaleza.prj
+3,Mapa da Estrutura de Fortaleza - Área Edificada Comercial,"Este mapa a área comercial edificada de Fortaleza em m²
+",mapaareaedificadam2comercialfortaleza.shp
+4,Mapa da Estrutura de Fortaleza - Área Edificada Comercial,"Este mapa a área comercial edificada de Fortaleza em m²
+",mapaareaedificadam2comercialfortaleza.shx
+5,Mapa da Estrutura de Fortaleza - Área Edificada Comercial,"Este mapa a área comercial edificada de Fortaleza em m²
+",mapaareaedificadam2comercialfortaleza.txt
+0,Balancetes (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 10-2015
+",rx201510.txt
+1,Balancetes (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 10-2015
+",dx201510.txt
+2,Balancetes (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 10-2015
+",br201510.txt
+3,Balancetes (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 10-2015
+",bd201510.txt
+4,Balancetes (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 10-2015
+",documentacaoreferenteaosbalancetes.pdf
+0,Informações Básicas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 10-2015
+",od201510.txt
+1,Informações Básicas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 10-2015
+",cb201510.txt
+2,Informações Básicas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 10-2015
+",documentacaodeinformacoesbasicas.pdf
+0,Documentação de Controle (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 10-2015
+",rc201510.txt
+1,Documentação de Controle (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 10-2015
+",documentacaodecontrole.pdf
+0,Documentação Comprobatória de Despesas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 10-2015
+",xd201510.txt
+1,Documentação Comprobatória de Despesas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 10-2015
+",pf201510.txt
+2,Documentação Comprobatória de Despesas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 10-2015
+",np201510.txt
+3,Documentação Comprobatória de Despesas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 10-2015
+",nf201510.txt
+4,Documentação Comprobatória de Despesas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 10-2015
+",ne201510.txt
+5,Documentação Comprobatória de Despesas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 10-2015
+",lq201510.txt
+6,Documentação Comprobatória de Despesas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 10-2015
+",if201510.txt
+7,Documentação Comprobatória de Despesas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 10-2015
+",el201510.txt
+8,Documentação Comprobatória de Despesas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 10-2015
+",eg201510.txt
+9,Documentação Comprobatória de Despesas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 10-2015
+",dp201510.txt
+10,Documentação Comprobatória de Despesas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 10-2015
+",cp201510.txt
+11,Documentação Comprobatória de Despesas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 10-2015
+",ae201510.txt
+12,Documentação Comprobatória de Despesas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 10-2015
+",documentacaocomprobatoriadedespesas.pdf
+0,Documentação Comprobatória de Receitas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 10-2015
+",tx201510.txt
+1,Documentação Comprobatória de Receitas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 10-2015
+",tr201510.txt
+2,Documentação Comprobatória de Receitas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 10-2015
+",at201510.txt
+3,Documentação Comprobatória de Receitas (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 10-2015
+",documentacaocomprobatoriadereceitas.pdf
+0,Processo de Aquisição e Contratos (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 10-2015
+",tl201510.txt
+1,Processo de Aquisição e Contratos (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 10-2015
+",pe201510.txt
+2,Processo de Aquisição e Contratos (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 10-2015
+",mc201510.txt
+3,Processo de Aquisição e Contratos (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 10-2015
+",lt201510.txt
+4,Processo de Aquisição e Contratos (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 10-2015
+",li201510.txt
+5,Processo de Aquisição e Contratos (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 10-2015
+",dl201510.txt
+6,Processo de Aquisição e Contratos (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 10-2015
+",ct201510.txt
+7,Processo de Aquisição e Contratos (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 10-2015
+",co201510.txt
+8,Processo de Aquisição e Contratos (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 10-2015
+",cl201510.txt
+9,Processo de Aquisição e Contratos (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 10-2015
+",documentacaoreferenteaprocessosdeaquisicoesecontratos.pdf
+0,Orçamento Municipal (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 10-2015
+",re201510.txt
+1,Orçamento Municipal (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 10-2015
+",ep201510.txt
+2,Orçamento Municipal (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 10-2015
+",de201510.txt
+3,Orçamento Municipal (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 10-2015
+",documentacaodeinformacoesaoorcamentomunicipal.pdf
+0,Obras Municipais ou Serviços de Engenharia (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente as obras municipais e serviços de engenharia ( Sistema de Informações Municipais) - ref. 10-2015
+",os201510.txt
+1,Obras Municipais ou Serviços de Engenharia (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação referente as obras municipais e serviços de engenharia ( Sistema de Informações Municipais) - ref. 10-2015
+",documentacaodeobrasmunicipaisouservicosdeengenharia.pdf
+0,Outros Tipos de Documentos (SIM) - Ref. 10-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 10-2015
+",da201510.txt
+1,Outros Tipos de Documentos (SIM) - Ref. 10-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 10-2015
+",outrostiposdedocumentos.pdf
+0,Controle do Patrimônio Municipal (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 10-2015
+",bp201510.txt
+1,Controle do Patrimônio Municipal (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 10-2015
+",bo201510.txt
+2,Controle do Patrimônio Municipal (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 10-2015
+",bn201510.txt
+3,Controle do Patrimônio Municipal (SIM) - Ref. 10-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 10-2015
+",documentacaodecontroledopatrimoniomunicipal.pdf
+0,Balancetes (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 09-2015
+",rx201509.txt
+1,Balancetes (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 09-2015
+",dx201509.txt
+2,Balancetes (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 09-2015
+",br201509.txt
+3,Balancetes (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 09-2015
+",bd201509.txt
+4,Balancetes (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 09-2015
+",documentacaoreferenteaosbalancetes.pdf
+0,Informações Básicas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 05-2015
+",od201509.txt
+1,Informações Básicas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 05-2015
+",ge201509.txt
+2,Informações Básicas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 05-2015
+",cb201509.txt
+3,Informações Básicas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 05-2015
+",documentacaodeinformacoesbasicas.pdf
+0,Documentação de Controle (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 09-2015
+",rc201509.txt
+1,Documentação de Controle (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 09-2015
+",documentacaodecontrole.pdf
+0,Documentação Comprobatória de Despesas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 09-2015
+",xe201509.txt
+1,Documentação Comprobatória de Despesas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 09-2015
+",xd201509.txt
+2,Documentação Comprobatória de Despesas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 09-2015
+",pf201509.txt
+3,Documentação Comprobatória de Despesas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 09-2015
+",np201509.txt
+4,Documentação Comprobatória de Despesas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 09-2015
+",nf201509.txt
+5,Documentação Comprobatória de Despesas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 09-2015
+",ne201509.txt
+6,Documentação Comprobatória de Despesas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 09-2015
+",lq201509.txt
+7,Documentação Comprobatória de Despesas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 09-2015
+",if201509.txt
+8,Documentação Comprobatória de Despesas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 09-2015
+",el201509.txt
+9,Documentação Comprobatória de Despesas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 09-2015
+",eg201509.txt
+10,Documentação Comprobatória de Despesas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 09-2015
+",dp201509.txt
+11,Documentação Comprobatória de Despesas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 09-2015
+",cp201509.txt
+12,Documentação Comprobatória de Despesas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 09-2015
+",ae201509.txt
+13,Documentação Comprobatória de Despesas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 09-2015
+",documentacaocomprobatoriadedespesas.pdf
+0,Documentação Comprobatória de Receitas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 09-2015
+",tx201509.txt
+1,Documentação Comprobatória de Receitas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 09-2015
+",tr201509.txt
+2,Documentação Comprobatória de Receitas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 09-2015
+",at201509.txt
+3,Documentação Comprobatória de Receitas (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 09-2015
+",documentacaocomprobatoriadereceitas.pdf
+0,Processo de Aquisição e Contratos (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 09-2015
+",tl201509.txt
+1,Processo de Aquisição e Contratos (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 09-2015
+",pe201509.txt
+2,Processo de Aquisição e Contratos (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 09-2015
+",mc201509.txt
+3,Processo de Aquisição e Contratos (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 09-2015
+",lt201509.txt
+4,Processo de Aquisição e Contratos (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 09-2015
+",li201509.txt
+5,Processo de Aquisição e Contratos (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 09-2015
+",dl201509.txt
+6,Processo de Aquisição e Contratos (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 09-2015
+",ct201509.txt
+7,Processo de Aquisição e Contratos (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 09-2015
+",co201509.txt
+8,Processo de Aquisição e Contratos (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 09-2015
+",cl201509.txt
+9,Processo de Aquisição e Contratos (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 09-2015
+",documentacaoreferenteaprocessosdeaquisicoesecontratos.pdf
+0,Orçamento Municipal (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 09-2015
+",re201509.txt
+1,Orçamento Municipal (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 09-2015
+",pg201509.txt
+2,Orçamento Municipal (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 09-2015
+",pa201509.txt
+3,Orçamento Municipal (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 09-2015
+",ep201509.txt
+4,Orçamento Municipal (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 09-2015
+",de201509.txt
+5,Orçamento Municipal (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 09-2015
+",documentacaodeinformacoesaoorcamentomunicipal.pdf
+0,Obras Municipais ou Serviços de Engenharia (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente as obras municipais e serviços de engenharia ( Sistema de Informações Municipais) - ref. 09-2015
+",os201509.txt
+1,Obras Municipais ou Serviços de Engenharia (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação referente as obras municipais e serviços de engenharia ( Sistema de Informações Municipais) - ref. 09-2015
+",documentacaodeobrasmunicipaisouservicosdeengenharia.pdf
+0,Outros Tipos de Documentos (SIM) - Ref. 09-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 09-2015
+",da201509.txt
+1,Outros Tipos de Documentos (SIM) - Ref. 09-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 09-2015
+",tf201509.txt
+2,Outros Tipos de Documentos (SIM) - Ref. 09-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 09-2015
+",outrostiposdedocumentos.pdf
+0,Controle do Patrimônio Municipal (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 09-2015
+",bp201509.txt
+1,Controle do Patrimônio Municipal (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 09-2015
+",bo201509.txt
+2,Controle do Patrimônio Municipal (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 09-2015
+",bn201509.txt
+3,Controle do Patrimônio Municipal (SIM) - Ref. 09-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 09-2015
+",documentacaodecontroledopatrimoniomunicipal.pdf
+0,Balancetes (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 08-2015
+",rx201508.txt
+1,Balancetes (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 08-2015
+",dx201508.txt
+2,Balancetes (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 08-2015
+",br201508.txt
+3,Balancetes (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 08-2015
+",bd201508.txt
+4,Balancetes (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 08-2015
+",documentacaoreferenteaosbalancetes.pdf
+0,Informações Básicas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 08-2015
+",od201508.txt
+1,Informações Básicas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 08-2015
+",ge201508.txt
+2,Informações Básicas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 08-2015
+",cb201508.txt
+3,Informações Básicas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 08-2015
+",documentacaodeinformacoesbasicas.pdf
+0,Documentação de Controle (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 08-2015
+",rc201508.txt
+1,Documentação de Controle (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 08-2015
+",documentacaodecontrole.pdf
+0,Documentação Comprobatória de Despesas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 08-2015
+",xe201508.txt
+1,Documentação Comprobatória de Despesas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 08-2015
+",xd201508.txt
+2,Documentação Comprobatória de Despesas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 08-2015
+",pf201508.txt
+3,Documentação Comprobatória de Despesas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 08-2015
+",np201508.txt
+4,Documentação Comprobatória de Despesas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 08-2015
+",ne201508.txt
+5,Documentação Comprobatória de Despesas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 08-2015
+",nf201508.txt
+6,Documentação Comprobatória de Despesas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 08-2015
+",lq201508.txt
+7,Documentação Comprobatória de Despesas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 08-2015
+",if201508.txt
+8,Documentação Comprobatória de Despesas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 08-2015
+",el201508.txt
+9,Documentação Comprobatória de Despesas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 08-2015
+",eg201508.txt
+10,Documentação Comprobatória de Despesas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 08-2015
+",dp201508.txt
+11,Documentação Comprobatória de Despesas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 08-2015
+",cp201508.txt
+12,Documentação Comprobatória de Despesas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 08-2015
+",ae201508.txt
+13,Documentação Comprobatória de Despesas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 08-2015
+",documentacaocomprobatoriadedespesas.pdf
+0,Documentação Comprobatória de Receitas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 08-2015
+",tr201508.txt
+1,Documentação Comprobatória de Receitas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 08-2015
+",tx201508.txt
+2,Documentação Comprobatória de Receitas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 08-2015
+",at201508.txt
+3,Documentação Comprobatória de Receitas (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 08-2015
+",documentacaocomprobatoriadereceitas.pdf
+0,Processo de Aquisição e Contratos (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 08-2015
+",tl201508.txt
+1,Processo de Aquisição e Contratos (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 08-2015
+",pe201508.txt
+2,Processo de Aquisição e Contratos (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 08-2015
+",mc201508.txt
+3,Processo de Aquisição e Contratos (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 08-2015
+",lt201508.txt
+4,Processo de Aquisição e Contratos (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 08-2015
+",li201508.txt
+5,Processo de Aquisição e Contratos (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 08-2015
+",dl201508.txt
+6,Processo de Aquisição e Contratos (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 08-2015
+",ct201508.txt
+7,Processo de Aquisição e Contratos (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 08-2015
+",co201508.txt
+8,Processo de Aquisição e Contratos (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 08-2015
+",cl201508.txt
+9,Processo de Aquisição e Contratos (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 08-2015
+",documentacaoreferenteaprocessosdeaquisicoesecontratos.pdf
+0,Orçamento Municipal (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 08-2015
+",ep201508.txt
+1,Orçamento Municipal (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 08-2015
+",re201508.txt
+2,Orçamento Municipal (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 08-2015
+",de201508.txt
+3,Orçamento Municipal (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 08-2015
+",documentacaodeinformacoesaoorcamentomunicipal.pdf
+0,Obras Municipais ou Serviços de Engenharia (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação de obras municipais e serviços de engenharia ( Sistema de Informações Municipais) - ref. 08-2015
+",os201508.txt
+1,Obras Municipais ou Serviços de Engenharia (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação de obras municipais e serviços de engenharia ( Sistema de Informações Municipais) - ref. 08-2015
+",documentacaodeobrasmunicipaisouservicosdeengenharia.pdf
+0,Outros Tipos de Documentos (SIM) - Ref. 07-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 07-2015
+",tf201507.txt
+1,Outros Tipos de Documentos (SIM) - Ref. 07-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 07-2015
+",da201507.txt
+2,Outros Tipos de Documentos (SIM) - Ref. 07-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 07-2015
+",outrostiposdedocumentos.pdf
+0,Outros Tipos de Documentos (SIM) - Ref. 08-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 08-2015
+",tf201508.txt
+1,Outros Tipos de Documentos (SIM) - Ref. 08-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 08-2015
+",da201508.txt
+2,Outros Tipos de Documentos (SIM) - Ref. 08-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 08-2015
+",outrostiposdedocumentos.pdf
+0,Controle do Patrimônio Municipal (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 08-2015
+",bp201508.txt
+1,Controle do Patrimônio Municipal (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 08-2015
+",bo201508.txt
+2,Controle do Patrimônio Municipal (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 08-2015
+",bn201508.txt
+3,Controle do Patrimônio Municipal (SIM) - Ref. 08-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 08-2015
+",documentacaodecontroledopatrimoniomunicipal.pdf
+0,Balancetes (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 07-2015
+",rx201507.txt
+1,Balancetes (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 07-2015
+",dx201507.txt
+2,Balancetes (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 07-2015
+",br201507.txt
+3,Balancetes (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 07-2015
+",bd201507.txt
+4,Balancetes (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 07-2015
+",documentacaoreferenteaosbalancetes.pdf
+0,Informações Básicas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 07-2015
+",od201507.txt
+1,Informações Básicas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 07-2015
+",cb201507.txt
+2,Informações Básicas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 07-2015
+",documentacaodeinformacoesbasicas.pdf
+0,Documentação Comprobatória de Despesas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 07-2015
+",xe201507.txt
+1,Documentação Comprobatória de Despesas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 07-2015
+",xd201507.txt
+2,Documentação Comprobatória de Despesas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 07-2015
+",pf201507.txt
+3,Documentação Comprobatória de Despesas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 07-2015
+",np201507.txt
+4,Documentação Comprobatória de Despesas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 07-2015
+",nf201507.txt
+5,Documentação Comprobatória de Despesas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 07-2015
+",ne201507.txt
+6,Documentação Comprobatória de Despesas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 07-2015
+",lq201507.txt
+7,Documentação Comprobatória de Despesas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 07-2015
+",if201507.txt
+8,Documentação Comprobatória de Despesas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 07-2015
+",el201507.txt
+9,Documentação Comprobatória de Despesas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 07-2015
+",dp201507.txt
+10,Documentação Comprobatória de Despesas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 07-2015
+",cp201507.txt
+11,Documentação Comprobatória de Despesas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 07-2015
+",ae201507.txt
+12,Documentação Comprobatória de Despesas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 07-2015
+",documentacaocomprobatoriadedespesas.pdf
+0,Documentação Comprobatória de Receitas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 07-2015
+",tx201507.txt
+1,Documentação Comprobatória de Receitas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 07-2015
+",tr201507.txt
+2,Documentação Comprobatória de Receitas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 07-2015
+",at201507.txt
+3,Documentação Comprobatória de Receitas (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 07-2015
+",documentacaocomprobatoriadereceitas.pdf
+0,Processo de Aquisição e Contratos (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 07-2015
+",tl201507.txt
+1,Processo de Aquisição e Contratos (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 07-2015
+",pe201507.txt
+2,Processo de Aquisição e Contratos (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 07-2015
+",mc201507.txt
+3,Processo de Aquisição e Contratos (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 07-2015
+",lt201507.txt
+4,Processo de Aquisição e Contratos (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 07-2015
+",li201507.txt
+5,Processo de Aquisição e Contratos (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 07-2015
+",dl201507.txt
+6,Processo de Aquisição e Contratos (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 07-2015
+",ct201507.txt
+7,Processo de Aquisição e Contratos (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 07-2015
+",co201507.txt
+8,Processo de Aquisição e Contratos (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 07-2015
+",cl201507.txt
+9,Processo de Aquisição e Contratos (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 07-2015
+",documentacaoreferenteaprocessosdeaquisicoesecontratos.pdf
+0,Orçamento Municipal (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 07-2015
+",re201507.txt
+1,Orçamento Municipal (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 07-2015
+",ep201507.txt
+2,Orçamento Municipal (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 07-2015
+",de201507.txt
+3,Orçamento Municipal (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 07-2015
+",documentacaodeinformacoesaoorcamentomunicipal.pdf
+0,Obras Municipais ou Serviços de Engenharia (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação de obras municipais e serviços de engenharia ( Sistema de Informações Municipais) - ref. 07-2015
+",os201507.txt
+1,Obras Municipais ou Serviços de Engenharia (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação de obras municipais e serviços de engenharia ( Sistema de Informações Municipais) - ref. 07-2015
+",documentacaodeobrasmunicipaisouservicosdeengenharia.pdf
+0,Controle do Patrimônio Municipal (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 07-2015
+",bp201507.txt
+1,Controle do Patrimônio Municipal (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 07-2015
+",bo201507.txt
+2,Controle do Patrimônio Municipal (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 07-2015
+",bn201507.txt
+3,Controle do Patrimônio Municipal (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 07-2015
+",documentacaodecontroledopatrimoniomunicipal.pdf
+0,Documentação de Controle (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 07-2015
+",rc201507.txt
+1,Documentação de Controle (SIM) - Ref. 07-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 07-2015
+",documentacaodecontrole.pdf
+0,"Fachadas, Logradouros, Quadras, Bairros, Territoriais","Fachadas, Logradouros, Quadras, Bairros, Territoriais.
+",bairrossit.shp
+1,"Fachadas, Logradouros, Quadras, Bairros, Territoriais","Fachadas, Logradouros, Quadras, Bairros, Territoriais.
+",bairrossit.shx
+2,"Fachadas, Logradouros, Quadras, Bairros, Territoriais","Fachadas, Logradouros, Quadras, Bairros, Territoriais.
+",distritossit.shp
+3,"Fachadas, Logradouros, Quadras, Bairros, Territoriais","Fachadas, Logradouros, Quadras, Bairros, Territoriais.
+",distritossit.shx
+4,"Fachadas, Logradouros, Quadras, Bairros, Territoriais","Fachadas, Logradouros, Quadras, Bairros, Territoriais.
+",logradourotrechossit.shp
+5,"Fachadas, Logradouros, Quadras, Bairros, Territoriais","Fachadas, Logradouros, Quadras, Bairros, Territoriais.
+",logradourotrechossit.shx
+6,"Fachadas, Logradouros, Quadras, Bairros, Territoriais","Fachadas, Logradouros, Quadras, Bairros, Territoriais.
+",quadrassit.shp
+7,"Fachadas, Logradouros, Quadras, Bairros, Territoriais","Fachadas, Logradouros, Quadras, Bairros, Territoriais.
+",quadrassit.shx
+8,"Fachadas, Logradouros, Quadras, Bairros, Territoriais","Fachadas, Logradouros, Quadras, Bairros, Territoriais.
+",territoriaissit.shp
+9,"Fachadas, Logradouros, Quadras, Bairros, Territoriais","Fachadas, Logradouros, Quadras, Bairros, Territoriais.
+",territoriaissit.shx
+10,"Fachadas, Logradouros, Quadras, Bairros, Territoriais","Fachadas, Logradouros, Quadras, Bairros, Territoriais.
+",logradourosshapesit.shp
+11,"Fachadas, Logradouros, Quadras, Bairros, Territoriais","Fachadas, Logradouros, Quadras, Bairros, Territoriais.
+",logradourosshapesit.shx
+12,"Fachadas, Logradouros, Quadras, Bairros, Territoriais","Fachadas, Logradouros, Quadras, Bairros, Territoriais.
+",quadrafaces.csv
+0,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",upa.shx
+1,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",upa.shp
+2,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",upa.qpj
+3,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",upa.prj
+4,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",upa.kml
+5,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",upa.dbf
+6,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",upa.cpg
+7,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",unidadebasica.shx
+8,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",unidadebasica.shp
+9,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",unidadebasica.qpj
+10,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",unidadebasica.prj
+11,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",unidadebasica.kml
+12,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",unidadebasica.dbf
+13,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",unidadebasica.cpg
+14,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",hospital.shx
+15,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",hospital.shp
+16,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",hospital.qpj
+17,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",hospital.prj
+18,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",hospital.kml
+19,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",hospital.dbf
+20,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",hospital.cpg
+21,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",capscnes.shx
+22,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",capscnes.shp
+23,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",capscnes.sbx
+24,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",capscnes.sbn
+25,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",capscnes.qix
+26,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",capscnes.dbf
+27,"Shapes com as Coordenadas das Unidades Basicas, Hospitais, UPAS e CAPS","Este conjunto de dados contem localização geográfica das unidades básicas, hospitais, UPAS, CAPS
+",capcnes.kml
+0,Óbitos Ref.: 01 a 05/2015,"Este conjunto de dados contém informações de óbito do município de Fortaleza referente aos meses de janeiro a maio de 2015
+",doce15.csv
+1,Óbitos Ref.: 01 a 05/2015,"Este conjunto de dados contém informações de óbito do município de Fortaleza referente aos meses de janeiro a maio de 2015
+",dicionariodedadossimtabelado.pdf
+0,Recém Nascidos - Ref. 01 a 06/2015,"Este conjunto de dados contém informações sobre os recém nascidos do município de Fortaleza referente aos meses de janeiro a junho de 2015
+",dnce15.csv
+1,Recém Nascidos - Ref. 01 a 06/2015,"Este conjunto de dados contém informações sobre os recém nascidos do município de Fortaleza referente aos meses de janeiro a junho de 2015
+",dicionariodedadossinasctabeladn.pdf
+0,Notificações de Dengue - Ref. 01 a 06/2015,"Este conjunto de dados contém notificações de dengue no município de Fortaleza no período de janeiro a junho de 2015
+",dengue2015.csv
+1,Notificações de Dengue - Ref. 01 a 06/2015,"Este conjunto de dados contém notificações de dengue no município de Fortaleza no período de janeiro a junho de 2015
+",dicionariodedadosdengueinvestigacao.pdf
+0,Controle do Patrimônio Municipal (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 06-2015
+",bn201506.pat.txt
+1,Controle do Patrimônio Municipal (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 06-2015
+",bo201506.pat.txt
+2,Controle do Patrimônio Municipal (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 06-2015
+",bp201506.pat.txt
+3,Controle do Patrimônio Municipal (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 06-2015
+",documentacaodecontroledopatrimoniomunicipal.pdf
+0,Outros Tipos de Documentos (SIM) - Ref. 06-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 06-2015
+",da201506.out.txt
+1,Outros Tipos de Documentos (SIM) - Ref. 06-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 06-2015
+",tf201506.out.txt
+2,Outros Tipos de Documentos (SIM) - Ref. 06-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 06-2015
+",outrostiposdedocumentos.pdf
+0,Obras Municipais ou Serviços de Engenharia (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente as obras municipais e serviços de engenharia ( Sistema de Informações Municipais) - ref. 06-2015
+",os201506.ose.txt
+1,Obras Municipais ou Serviços de Engenharia (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente as obras municipais e serviços de engenharia ( Sistema de Informações Municipais) - ref. 06-2015
+",documentacaodeobrasmunicipaisouservicosdeengenharia.pdf
+0,Orçamento Municipal (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 05-2015
+",de201506.orc.txt
+1,Orçamento Municipal (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 05-2015
+",ep201506.orc.txt
+2,Orçamento Municipal (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 05-2015
+",re201506.orc.txt
+3,Orçamento Municipal (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 05-2015
+",documentacaodeinformacoesaoorcamentomunicipal.pdf
+0,Processo de Aquisição e Contratos (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 06-2015
+",cl201506.lco.txt
+1,Processo de Aquisição e Contratos (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 06-2015
+",co201506.lco.txt
+2,Processo de Aquisição e Contratos (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 06-2015
+",ct201506.lco.txt
+3,Processo de Aquisição e Contratos (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 06-2015
+",dl201506.lco.txt
+4,Processo de Aquisição e Contratos (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 06-2015
+",li201506.lco.txt
+5,Processo de Aquisição e Contratos (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 06-2015
+",lt201506.lco.txt
+6,Processo de Aquisição e Contratos (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 06-2015
+",mc201506.lco.txt
+7,Processo de Aquisição e Contratos (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 06-2015
+",pe201506.lco.txt
+8,Processo de Aquisição e Contratos (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 06-2015
+",tl201506.lco.txt
+9,Processo de Aquisição e Contratos (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 06-2015
+",documentacaoreferenteaprocessosdeaquisicoesecontratos.pdf
+0,Documentação Comprobatória de Receitas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 06-2015
+",at201506.dcr.txt
+1,Documentação Comprobatória de Receitas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 06-2015
+",tr201506.dcr.txt
+2,Documentação Comprobatória de Receitas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 06-2015
+",tx201506.dcr.txt
+3,Documentação Comprobatória de Receitas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 06-2015
+",documentacaocomprobatoriadereceitas.pdf
+0,Documentação Comprobatória de Despesas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 06-2015
+",ae201506.dcd.txt
+1,Documentação Comprobatória de Despesas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 06-2015
+",cp201506.dcd.txt
+2,Documentação Comprobatória de Despesas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 06-2015
+",dp201506.dcd.txt
+3,Documentação Comprobatória de Despesas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 06-2015
+",eg201506.dcd.txt
+4,Documentação Comprobatória de Despesas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 06-2015
+",el201506.dcd.txt
+5,Documentação Comprobatória de Despesas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 06-2015
+",if201506.dcd.txt
+6,Documentação Comprobatória de Despesas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 06-2015
+",lq201506.dcd.txt
+7,Documentação Comprobatória de Despesas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 06-2015
+",ne201506.dcd.txt
+8,Documentação Comprobatória de Despesas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 06-2015
+",nf201506.dcd.txt
+9,Documentação Comprobatória de Despesas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 06-2015
+",np201506.dcd.txt
+10,Documentação Comprobatória de Despesas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 06-2015
+",pf201506.dcd.txt
+11,Documentação Comprobatória de Despesas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 06-2015
+",xd201506.dcd.txt
+12,Documentação Comprobatória de Despesas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 06-2015
+",documentacaocomprobatoriadedespesas.pdf
+0,Documentação de Controle (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 06-2015
+",rc201506.ctr.txt
+1,Documentação de Controle (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 06-2015
+",documentacaodecontrole.pdf
+0,Informações Básicas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 05-2015
+",cb201506.bas.txt
+1,Informações Básicas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 05-2015
+",ge201506.bas.txt
+2,Informações Básicas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 05-2015
+",od201506.bas.txt
+3,Informações Básicas (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente a informações básicas ( Sistema de Informações Municipais) - ref. 05-2015
+",documentacaodeinformacoesbasicas.pdf
+0,Balancetes (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 06-2015
+",bd201506.bal.txt
+1,Balancetes (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 06-2015
+",br201506.bal.txt
+2,Balancetes (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 06-2015
+",dx201506.bal.txt
+3,Balancetes (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 06-2015
+",rx201506.bal.txt
+4,Balancetes (SIM) - Ref. 06-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 06-2015
+",documentacaoreferenteaosbalancetes.pdf
+0,Controle do Patrimônio Municipal (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 05-2015
+",bn201505.pat.txt
+1,Controle do Patrimônio Municipal (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 05-2015
+",bo201505.pat.txt
+2,Controle do Patrimônio Municipal (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 05-2015
+",bp201505.pat.txt
+3,Controle do Patrimônio Municipal (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação de controle do patrimônio municipal ( Sistema de Informações Municipais) - ref. 05-2015
+",documentacaodecontroledopatrimoniomunicipal.pdf
+0,Outros Tipos de Documentos (SIM) - Ref. 05-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 05-2015
+",da201505.out.txt
+1,Outros Tipos de Documentos (SIM) - Ref. 05-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 05-2015
+",tf201505.out.txt
+2,Outros Tipos de Documentos (SIM) - Ref. 05-2015,"Este conjunto de dados contem outros tipos de documentos ( Sistema de Informações Municipais) - ref. 05-2015
+",outrostiposdedocumentos.pdf
+0,Obras Municipais ou Serviços de Engenharia (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação de obras municipais e serviços de engenharia ( Sistema de Informações Municipais) - ref. 05-2015
+",os201505.ose.txt
+1,Obras Municipais ou Serviços de Engenharia (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação de obras municipais e serviços de engenharia ( Sistema de Informações Municipais) - ref. 05-2015
+",documentacaodeobrasmunicipaisouservicosdeengenharia.pdf
+0,Orçamento Municipal (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 05-2015
+",de201505.orc.txt
+1,Orçamento Municipal (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 05-2015
+",ep201505.orc.txt
+2,Orçamento Municipal (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 05-2015
+",pa201505.orc.txt
+3,Orçamento Municipal (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 05-2015
+",re201505.orc.txt
+4,Orçamento Municipal (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente ao orçamento municipal ( Sistema de Informações Municipais) - ref. 05-2015
+",documentacaodeinformacoesaoorcamentomunicipal.pdf
+0,Processo de Aquisição e Contratos (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 05-2015
+",cl201505.lco.txt
+1,Processo de Aquisição e Contratos (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 05-2015
+",co201505.lco.txt
+2,Processo de Aquisição e Contratos (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 05-2015
+",ct201505.lco.txt
+3,Processo de Aquisição e Contratos (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 05-2015
+",dl201505.lco.txt
+4,Processo de Aquisição e Contratos (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 05-2015
+",li201505.lco.txt
+5,Processo de Aquisição e Contratos (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 05-2015
+",lt201505.lco.txt
+6,Processo de Aquisição e Contratos (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 05-2015
+",mc201505.lco.txt
+7,Processo de Aquisição e Contratos (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 05-2015
+",pe201505.lco.txt
+8,Processo de Aquisição e Contratos (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 05-2015
+",tl201505.lco.txt
+9,Processo de Aquisição e Contratos (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente a processos de aquisição e contratos ( Sistema de Informações Municipais) - ref. 05-2015
+",documentacaoreferenteaprocessosdeaquisicoesecontratos.pdf
+0,Documentação Comprobatória de Receitas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 05-2015
+",at201505.dcr.txt
+1,Documentação Comprobatória de Receitas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 05-2015
+",tr201505.dcr.txt
+2,Documentação Comprobatória de Receitas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 05-2015
+",tx201505.dcr.txt
+3,Documentação Comprobatória de Receitas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de receitas ( Sistema de Informações Municipais) - ref. 05-2015
+",documentacaocomprobatoriadereceitas.pdf
+0,Documentação Comprobatória de Despesas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 05-2015
+",ae201505.dcd.txt
+1,Documentação Comprobatória de Despesas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 05-2015
+",cp201505.dcd.txt
+2,Documentação Comprobatória de Despesas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 05-2015
+",dp201505.dcd.txt
+3,Documentação Comprobatória de Despesas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 05-2015
+",eg201505.dcd.txt
+4,Documentação Comprobatória de Despesas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 05-2015
+",el201505.dcd.txt
+5,Documentação Comprobatória de Despesas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 05-2015
+",if201505.dcd.txt
+6,Documentação Comprobatória de Despesas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 05-2015
+",lq201505.dcd.txt
+7,Documentação Comprobatória de Despesas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 05-2015
+",ne201505.dcd.txt
+8,Documentação Comprobatória de Despesas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 05-2015
+",nf201505.dcd.txt
+9,Documentação Comprobatória de Despesas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 05-2015
+",np201505.dcd.txt
+10,Documentação Comprobatória de Despesas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 05-2015
+",pf201505.dcd.txt
+11,Documentação Comprobatória de Despesas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 05-2015
+",xd201505.dcd.txt
+12,Documentação Comprobatória de Despesas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 05-2015
+",xe201505.dcd.txt
+13,Documentação Comprobatória de Despesas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação comprobatória de despesas ( Sistema de Informações Municipais) - ref. 05-2015
+",documentacaocomprobatoriadedespesas.pdf
+0,Documentação de Controle (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 05-2015
+",rc201505.ctr.txt
+1,Documentação de Controle (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação de controle ( Sistema de Informações Municipais) - ref. 05-2015
+",documentacaodecontrole.pdf
+0,Informações Básicas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação de informações básicas ( Sistema de Informações Municipais) - ref. 05-2015
+",cb201505.bas.txt
+1,Informações Básicas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação de informações básicas ( Sistema de Informações Municipais) - ref. 05-2015
+",od201505.bas.txt
+2,Informações Básicas (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação de informações básicas ( Sistema de Informações Municipais) - ref. 05-2015
+",documentacaodeinformacoesbasicas.pdf
+0,Balancetes (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 05-2015
+",bd201505.bal.txt
+1,Balancetes (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 05-2015
+",br201505.bal.txt
+2,Balancetes (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 05-2015
+",dx201505.bal.txt
+3,Balancetes (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 05-2015
+",rx201505.bal.txt
+4,Balancetes (SIM) - Ref. 05-2015,"Este conjunto de dados contem documentação referente aos balancetes ( Sistema de Informações Municipais) - ref. 05-2015
+",documentacaoreferenteaosbalancetes.pdf
+0,Pontos de Controle Ônibus de Fortaleza,"Este conjunto de dados contém informações dos Pontos de controle dos ônibus de fortaleza
+",pontos.xml
+0,Frota de Ônibus Fortaleza - 04/2015,"Este conjunto de dados contém informações da frota de ônibus (Placa, Chassi, Ano de fabricação, etc) das empresas de Transporte Público Municipal . Mês de referência: 04/2015
+",fr2015040100.xml
+0,Linhas de Ônibus - Janeiro a Março/2015,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2015
+",pl201501.rar
+1,Linhas de Ônibus - Janeiro a Março/2015,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2015
+",pl201502.rar
+2,Linhas de Ônibus - Janeiro a Março/2015,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2015
+",pl201503.rar
+3,Linhas de Ônibus - Janeiro a Março/2015,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2015
+",layoutarquivosdelinhas.docx
+0,GPS de Ônibus em Fortaleza - 05/2015,"Este conjunto de dados contém informações de rastreamento por GPS dos ônibus em Fortaleza durante o mês de 05/2015
+",gr201505.rar
+1,GPS de Ônibus em Fortaleza - 05/2015,"Este conjunto de dados contém informações de rastreamento por GPS dos ônibus em Fortaleza durante o mês de 05/2015
+",layoutarquivosderastreamentogps.docx
+0,GPS de Ônibus em Fortaleza - 04/2015,"Este conjunto de dados contém informações de rastreamento por GPS dos ônibus em Fortaleza durante o mês de 04/2015
+",gr201504.rar
+1,GPS de Ônibus em Fortaleza - 04/2015,"Este conjunto de dados contém informações de rastreamento por GPS dos ônibus em Fortaleza durante o mês de 04/2015
+",layoutarquivosderastreamentogps.docx
+0,GPS de Ônibus em Fortaleza - 03/2015,"Este conjunto de dados contém informações de rastreamento por GPS dos ônibus em Fortaleza durante o mês de 03/2015
+",gr201503.rar
+1,GPS de Ônibus em Fortaleza - 03/2015,"Este conjunto de dados contém informações de rastreamento por GPS dos ônibus em Fortaleza durante o mês de 03/2015
+",layoutarquivosderastreamentogps.docx
+0,Informações de Transporte Público Municipal ( conforme especificações Google ...,"Informações de transporte municipal conforme as especificações do Google: http://developers.google.com/transit/gtfs/reference
+",agency.txt
+1,Informações de Transporte Público Municipal ( conforme especificações Google ...,"Informações de transporte municipal conforme as especificações do Google: http://developers.google.com/transit/gtfs/reference
+",calendar.txt
+2,Informações de Transporte Público Municipal ( conforme especificações Google ...,"Informações de transporte municipal conforme as especificações do Google: http://developers.google.com/transit/gtfs/reference
+",calendardates.txt
+3,Informações de Transporte Público Municipal ( conforme especificações Google ...,"Informações de transporte municipal conforme as especificações do Google: http://developers.google.com/transit/gtfs/reference
+",fareattributes.txt
+4,Informações de Transporte Público Municipal ( conforme especificações Google ...,"Informações de transporte municipal conforme as especificações do Google: http://developers.google.com/transit/gtfs/reference
+",farerules.txt
+5,Informações de Transporte Público Municipal ( conforme especificações Google ...,"Informações de transporte municipal conforme as especificações do Google: http://developers.google.com/transit/gtfs/reference
+",routes.txt
+6,Informações de Transporte Público Municipal ( conforme especificações Google ...,"Informações de transporte municipal conforme as especificações do Google: http://developers.google.com/transit/gtfs/reference
+",shapes.txt
+7,Informações de Transporte Público Municipal ( conforme especificações Google ...,"Informações de transporte municipal conforme as especificações do Google: http://developers.google.com/transit/gtfs/reference
+",stops.txt
+8,Informações de Transporte Público Municipal ( conforme especificações Google ...,"Informações de transporte municipal conforme as especificações do Google: http://developers.google.com/transit/gtfs/reference
+",trips.txt
+9,Informações de Transporte Público Municipal ( conforme especificações Google ...,"Informações de transporte municipal conforme as especificações do Google: http://developers.google.com/transit/gtfs/reference
+",layoutgoogle.txt
+0,GPS de Ônibus em Fortaleza - 01/2015,"Este conjunto de dados contém informações de rastreamento por GPS dos ônibus em Fortaleza durante o mês de 01/2015
+",gr201501.rar
+1,GPS de Ônibus em Fortaleza - 01/2015,"Este conjunto de dados contém informações de rastreamento por GPS dos ônibus em Fortaleza durante o mês de 01/2015
+",layoutarquivosderastreamento.docx
+0,GPS de Ônibus em Fortaleza - 02/2015,"Este conjunto de dados contém informações de rastreamento por GPS dos ônibus em Fortaleza durante o mês de 02/2015
+",gr201502.rar
+1,GPS de Ônibus em Fortaleza - 02/2015,"Este conjunto de dados contém informações de rastreamento por GPS dos ônibus em Fortaleza durante o mês de 02/2015
+",layoutarquivosderastreamento.docx
+0,GPS de Ônibus em Fortaleza - 12/2014,"Este conjunto de dados contém informações de rastreamento por GPS dos ônibus em Fortaleza durante o mês de 12/2014
+",gr201412.rar
+1,GPS de Ônibus em Fortaleza - 12/2014,"Este conjunto de dados contém informações de rastreamento por GPS dos ônibus em Fortaleza durante o mês de 12/2014
+",layoutarquivosderastreamento.docx
+0,Bilhetagem Junho 2014,"Este conjunto de dados contém as informações da bilhetagem das linhas de ônibus do município de Fortaleza - junho/2014
+",062014.rar
+0,Bilhetagem Maio 2014,"Este conjunto de dados contém as informações da bilhetagem das linhas de ônibus do município de Fortaleza - maio/2014
+",052014.rar
+0,Bilhetagem Abril 2014,"Este conjunto de dados contém as informações da bilhetagem das linhas de ônibus do município de Fortaleza - abril/2014
+",042014.rar
+0,Bilhetagem Março 2014,"Este conjunto de dados contém as informações da bilhetagem das linhas de ônibus do município de Fortaleza - março/2014
+",032014.rar
+0,Bilhetagem Fevereiro 2014,"Este conjunto de dados contém as informações da bilhetagem das linhas de ônibus do município de Fortaleza
+",022014.rar
+0,Mapa Rotas Transporte Escolar - Abril 2015,"Este conjunto de dados contem mapa das rotas do transporte escolar municipal atualizado em abril 2015
+",rotastransporteescolaratualizado.kmz
+0,Mapa Parque Escolar - Abril 2015,"Este conjunto de dados constitui um mapa de todos os equipamentos que formam a rede municipal de ensino.
+",parqueescolar.kmz
+0,Bilhetagem Janeiro 2014,"Este conjunto de dados contém as informações da bilhetagem das linhas de ônibus do município de Fortaleza
+",bilhetagem012014.rar
+0,Taxa de Escolarização (2007/2014) - Rede Municipal,"Este conjunto de dados expressa o percentual da papulação que se encontra matriculada na escola, em determinada idade ou faixa etária, estratificada em taxa de escolarização...",taxasdeescolarizacao20072014redemunicipal.xlsx
+0,SPAECE (2008-2013) - Por Escola,"Este conjunto de dados contém a avaliação do sistema permanente de avaliação da educação básica (SPAECE) - mensura os níveis de aprendizagem dos alunos do 2º, 5º e 9º anos (rede...",spaece2008a2013porescola.xlsx
+0,Rendimento Escolar Municipal (2007-2013) - Rede Municipal,"Este conjunto de dados expressa o percentual de alunos aprovados, reprovados e afastados por abandono no âmbito da rede municipal (2007-2013)
+",rendimentoescolarmunicipal20072013redemunicipal.xlsx
+0,Rendimento Escolar Municipal (2007-2013) - Por Escola,"Este conjunto de dados expressa o percentual de alunos aprovados, reprovados e afastados por abandono por escola nos anos de 2007 a 2013
+",rendimentoescolarmunicipal20072013escola.xlsx
+0,Parque Escolar Março (2015) - Rede Municipal,"Este conjunto de dados constitui todos os equipamentos (divididos em tipos) que formam a rede municipal de ensino - março 2015
+",parqueescolarmarco2015redemunicipal.xlsx
+0,Matrícula Escolar (2007-2014) - Por Escola,"Este conjunto de dados representa a matrícula do senso escolar (oficial) das unidades da rede municipal, estratificada por nível de ensino e ano (2007-2014)
+",matriculaescolar20072014porescola.xlsx
+0,IDEB Anos Iniciais e Finais (2005-2013) - Por Escola,Este conjunto de dados contém o Índice da Educação Básica (IDEB) - mensura o rendimento escolar dos alunos de ensino fundamental e os níveis de aprendizagem aos alunos do 5º e...,idebanosiniciaisefinais2005a2013porescola.xlsx
+0,Função Docente com Nível Superior (2010-2014) - Rede Municipal,Este conjunto de dados representa o quantitativo consolidado de docentes lecionando na rede municipal em todas as etapas de ensino que possuem nível superior nos anos de 2010 a...,funcaodocentecomnivelsuperior20102014redemunicipal.xlsx
+0,"IDEB Anos Iniciais e Anos Finais (2005-2013) - Brasil, Ceará, Fortaleza",Este conjunto de dados contém o Índice da Educação Básica (IDEB)  - mensura o rendimento escolar dos alunos do ensino fundamental e os níveis de aprendizagem dos alunos do 5º e...,idebanosinciaisefinais2005a2013brasilcearaefortaleza.xlsx
+0,Distorção Idade Série (2007-2013) - Por Escola,"Este conjunto de dados expressa o percentual de alunos, em cada série, com idade superior à idade recomendada por escola dos anos de 2007 a 2013.
+",distorcaoidadeserie20072013porescola.xlsx
+0,Distorção Idade Série (2007-2014) - Rede Municipal,"Este conjunto de dados expressa o percentual de alunos, em cada série, com idade superior à idade recomendada no âmbito agregado da rede municipal de ensino nos anos de 2007 a...",distorcaoidadeserie20072014redemunicipal.xlsx
+0,IPM Saúde - ( Programa de Saúde dos Servidores),"IPM Saúde é o programa de assistência à saúde do Instituto de Previdência do Município. Com ele, os servidores contribuem com um percentual de 2% dos vencimentos e a Prefeitura...",ipmsaude.doc
+0,Ouvidoria do IPM,"Canal de comunicação de forma aberta para todos os usuários do IPM, que facilita e agiliza as manifestações.
+",ouvidoriaipm.doc
+0,Núcleo de Insalubridade,O Núcleo de Insalubridade tem como objetivo emitir pareceres técnicos coletivos de Salubridade dos órgãos municipais e pareceres técnicos individuais dos servidores que postulem...,periciamedica.doc
+0,IPM- Previdência dos servidores municipais (Previfor),"Aposentadorias e pensões do Instituto de Previdência do Município de Fortaleza concedidas em 2013 e 2014.
+",dadosprevidencia.doc
+0,Perícia Médica - IPM,"A Perícia Médica atende aos servidores do município de Fortaleza.  São vários os serviços oferecidos pela Perícia Médica do IPM, como: avaliação da aptidão dos candidatos ao...",periciamedicaipm.xml
+0,"Desenvolvimento Humano, por Bairro de Fortaleza","Este conjunto de dados contém indicadores de educação, longevidade e renda para cada bairro de Fortaleza. Esses três indicadores juntos formam o Indice de Desenvolvimento Humano...",idh.xlsx
+0,Pontos de Iluminação Púbica,"Este conjunto de dados contém os dados georreferenciados dos pontos de iluminação pública da cidade de Fortaleza.
+",relatoriodoparquedeip.xlsx
+0,Frota de Ônibus Fortaleza - 02/2015,"Este conjunto de dados contém informações da frota de ônibus (Placa, Chassi, Ano de fabricação, etc) das empresas de Transporte Público Municipal . Mês de referência: 02/2015
+",fr2015022400.xml
+0,Linhas de Ônibus - 2014,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2014
+",pl201401.rar
+1,Linhas de Ônibus - 2014,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2014
+",pl201402.rar
+2,Linhas de Ônibus - 2014,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2014
+",pl201403.rar
+3,Linhas de Ônibus - 2014,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2014
+",pl201404.rar
+4,Linhas de Ônibus - 2014,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2014
+",pl201405.rar
+5,Linhas de Ônibus - 2014,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2014
+",pl201406.rar
+6,Linhas de Ônibus - 2014,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2014
+",pl201407.rar
+7,Linhas de Ônibus - 2014,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2014
+",pl201408.rar
+8,Linhas de Ônibus - 2014,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2014
+",pl201409.rar
+9,Linhas de Ônibus - 2014,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2014
+",pl201410.rar
+10,Linhas de Ônibus - 2014,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2014
+",pl201411.rar
+11,Linhas de Ônibus - 2014,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza ano 2014
+",pl201412.rar
+0,Linhas de Ônibus - 2013,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza no ano 2013
+",pl201301.rar
+1,Linhas de Ônibus - 2013,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza no ano 2013
+",pl201308.rar
+2,Linhas de Ônibus - 2013,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza no ano 2013
+",pl201309.rar
+3,Linhas de Ônibus - 2013,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza no ano 2013
+",pl201310.rar
+4,Linhas de Ônibus - 2013,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza no ano 2013
+",pl201311.rar
+5,Linhas de Ônibus - 2013,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza no ano 2013
+",pl201312.rar
+0,Linhas de Ônibus - 2012,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza.
+",pl201206.rar
+1,Linhas de Ônibus - 2012,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza.
+",pl201207.rar
+2,Linhas de Ônibus - 2012,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza.
+",pl201208.rar
+3,Linhas de Ônibus - 2012,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza.
+",pl201209.rar
+4,Linhas de Ônibus - 2012,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza.
+",pl201210.rar
+5,Linhas de Ônibus - 2012,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza.
+",pl201211.rar
+6,Linhas de Ônibus - 2012,"Este conjunto de dados contém informações sobre as linhas da rede urbana de ônibus do município de Fortaleza.
+",pl201212.rar
+0,Empresas de Ônibus - FEV-2015,"Este conjunto de dados contém informações das empresas de ônibus do município de Fortaleza.
+",empresas.xml
+0,Pontos de Controle dos Ônibus de Fortaleza,"Este conjunto de dados contém informações dos Pontos de controle dos ônibus de fortaleza
+",pontos.xml
+1,Pontos de Controle dos Ônibus de Fortaleza,"Este conjunto de dados contém informações dos Pontos de controle dos ônibus de fortaleza
+",layoutarquivosdepontos.docx
