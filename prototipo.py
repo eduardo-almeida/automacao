@@ -8,9 +8,10 @@ def ler_csv(arquivo):
     print(df)
 
 def copiar_arquivo(url):
-    for i in range(15):
+    for i in range(1,16):
         print(i+1)
-        get_url(url+str(i+1))
+        get_url(url+str(i))
+
 def get_url(url):
     html = requests.get(url)
 
@@ -119,10 +120,11 @@ def teste_old():
 if __name__ == '__main__':
 
     #url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset'
-    url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset?page='
+    url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset?page={}'
     #get_url(url)
 
-    copiar_arquivo(url)
+    for i in range(1,16):
+        get_url(url.format(i))
 
     #arquivo = "testando.csv"
     #ler_csv(arquivo)
