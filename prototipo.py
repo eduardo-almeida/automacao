@@ -8,8 +8,7 @@ def ler_csv(arquivo):
     print(df)
 
 def copiar_arquivo(url):
-    for i in range(1,16):
-        print(i+1)
+    for i in range(1,2):
         get_url(url+str(i))
 
 def get_url(url):
@@ -64,7 +63,7 @@ def get_arquivos(url, titulo, texto):
         url = i['href']
         extensao = arquivo[1].split('.')
         print("=========================================================")
-        print(texto)
+        print(url)
         try:
             baixar_arquivo(url, endereco)
             new_row = {'titulo':titulo, 'texto':texto, 'arquivo':arquivo[1]}
@@ -123,7 +122,7 @@ if __name__ == '__main__':
     url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset?page={}'
     #get_url(url)
 
-    for i in range(1,16):
+    for i in range(1,2):
         get_url(url.format(i))
 
     #arquivo = "testando.csv"

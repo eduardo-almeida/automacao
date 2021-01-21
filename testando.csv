@@ -2936,3 +2936,207 @@
 ",pontos.xml
 1,Pontos de Controle dos Ônibus de Fortaleza,"Este conjunto de dados contém informações dos Pontos de controle dos ônibus de fortaleza
 ",layoutarquivosdepontos.docx
+0,Chamadas da Polícia,"Chamadas da Polícia
+",policecalls.csv
+0,Chamadas da Polícia,"Chamadas da Polícia
+",policecalls.csv
+0,"Dados de Mobilidade de Ônibus-11-03-2015(gps,paradas,validação)","O arquivo contem dados de mobilidade de ônibus do período 11-03-2015, contendo dados de GPS,paradas e validação. 
+",mobilitydataset.zip
+1,"Dados de Mobilidade de Ônibus-11-03-2015(gps,paradas,validação)","O arquivo contem dados de mobilidade de ônibus do período 11-03-2015, contendo dados de GPS,paradas e validação. 
+",busstops.csv
+2,"Dados de Mobilidade de Ônibus-11-03-2015(gps,paradas,validação)","O arquivo contem dados de mobilidade de ônibus do período 11-03-2015, contendo dados de GPS,paradas e validação. 
+",gps.csv
+3,"Dados de Mobilidade de Ônibus-11-03-2015(gps,paradas,validação)","O arquivo contem dados de mobilidade de ônibus do período 11-03-2015, contendo dados de GPS,paradas e validação. 
+",validation.csv
+0,Parques e Praças Urbanizados de Fortaleza,"KML demonstrativo com localização e denominação das Praças e Parques no Município de Fortaleza. (aviso: Arquivo dinâmico, podem ocorrer mudanças de nomenclatura ou urbanização...",pracaseparquespmf.kmz
+0,ZEPO,"Arquivo disponibilizado pela Seuma sobre Zona Especial do Projeto da Orla
+",zepo.csv
+1,ZEPO,"Arquivo disponibilizado pela Seuma sobre Zona Especial do Projeto da Orla
+",zepo.json
+2,ZEPO,"Arquivo disponibilizado pela Seuma sobre Zona Especial do Projeto da Orla
+",zepo.kml
+0,ZEPH,"Arquivo disbonibilizados pela Seuma sobre as Zonas Especiais de Preservação do Patrimônio Paisagístico, Histórico, Cultural e Arqueológico
+",zeph.csv
+1,ZEPH,"Arquivo disbonibilizados pela Seuma sobre as Zonas Especiais de Preservação do Patrimônio Paisagístico, Histórico, Cultural e Arqueológico
+",zeph.json
+2,ZEPH,"Arquivo disbonibilizados pela Seuma sobre as Zonas Especiais de Preservação do Patrimônio Paisagístico, Histórico, Cultural e Arqueológico
+",zeph.kml
+0,ZEDUS,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais de Dinamização Urbanística e Socioeconômica
+",zedus.csv
+1,ZEDUS,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais de Dinamização Urbanística e Socioeconômica
+",zedus.json
+2,ZEDUS,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais de Dinamização Urbanística e Socioeconômica
+",zedus.kml
+0,ZEI,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais Institucionais
+",zei.csv
+1,ZEI,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais Institucionais
+",zei.json
+2,ZEI,"Arquivo disponibilizado pela Seuma sobre Zonas Especiais Institucionais
+",zei.kml
+0,ZEA,"Arquivos disponibilizados pela Seuma sobre as Zonas Especiais Ambientais 
+",zea.csv
+1,ZEA,"Arquivos disponibilizados pela Seuma sobre as Zonas Especiais Ambientais 
+",zea.json
+2,ZEA,"Arquivos disponibilizados pela Seuma sobre as Zonas Especiais Ambientais 
+",zea.kml
+0,Limite Bairros,"Arquivo disponibilizado pela SEFIN dos limites dos bairros de Fortaleza
+",limitebairro.csv
+1,Limite Bairros,"Arquivo disponibilizado pela SEFIN dos limites dos bairros de Fortaleza
+",limitebairro.json
+2,Limite Bairros,"Arquivo disponibilizado pela SEFIN dos limites dos bairros de Fortaleza
+",limitebairro.kml
+0,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",acfor.pdf
+1,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",agefis.pdf
+2,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",amc.pdf
+3,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",cac.pdf
+4,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",cemja.pdf
+5,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",cgm.pdf
+6,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",citinova.pdf
+7,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",clfor.pdf
+8,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",fmas.pdf
+9,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",fmjf.pdf
+10,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",fmjf.pdf
+11,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",funci.pdf
+12,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",fundema.pdf
+13,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",gabpref.pdf
+14,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",gabvice.pdf
+15,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",gmf.pdf
+16,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",habitafor.pdf
+17,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdeam.pdf
+18,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdebo.pdf
+19,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdgmbc.pdf
+20,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdgmjw.pdf
+21,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdgmm.pdf
+22,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hdmjbo.pdf
+23,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hmdzan.pdf
+24,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",hnsc.pdf
+25,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",ijf.pdf
+26,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",imparh.pdf
+27,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",iplanfor.pdf
+28,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",ipm.prev.pdf
+29,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",ipm.saude.pdf
+30,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",pgm.pdf
+31,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",procon.pdf
+32,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",scdh.pdf
+33,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",scsp.pdf
+34,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sde.pdf
+35,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",secel.pdf
+36,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",secultfor.pdf
+37,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sefin.pdf
+38,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",segov.pdf
+39,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",seinf.pdf
+40,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sepog.pdf
+41,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",seri.pdf
+42,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",serii.pdf
+43,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",seriii.pdf
+44,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",seriv.pdf
+45,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",serv.pdf
+46,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",servi.pdf
+47,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",serce.pdf
+48,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sesec.pdf
+49,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",setfor.pdf
+50,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",setra.pdf
+51,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",seuma.pdf
+52,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sme.pdf
+53,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",sms.pdf
+54,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",urbfor.pdf
+55,Inventário Patrimonial,"Relatório de gestão patrimonial, Classificação de Itens, Status dos Itens, Situação física dos bens
+",port4482002.pdf
+0,Territórios da Cidadania,"Arquivo disponibilizado pela Ceps sobre territórios da cidadania
+",territoriosdacidadania.csv
+1,Territórios da Cidadania,"Arquivo disponibilizado pela Ceps sobre territórios da cidadania
+",territoriosdacidadania.json
+2,Territórios da Cidadania,"Arquivo disponibilizado pela Ceps sobre territórios da cidadania
+",territoriosdacidadania.kml
+0,Bairros Regionais,"Arquivo disponibilizado pela Sefin sobre os bairros regionais
+",bairrosregionais.csv
+1,Bairros Regionais,"Arquivo disponibilizado pela Sefin sobre os bairros regionais
+",bairrosregionais.json
+2,Bairros Regionais,"Arquivo disponibilizado pela Sefin sobre os bairros regionais
+",bairrosregionais.kml
+0,Bens Tombados,"Arquivo disponibilizado pela Secultfor dos bens tombados
+",benstombados.csv
+1,Bens Tombados,"Arquivo disponibilizado pela Secultfor dos bens tombados
+",benstombados.json
+2,Bens Tombados,"Arquivo disponibilizado pela Secultfor dos bens tombados
+",benstombados.kml
+0,Limite Regional,"Arquivo do Limite Regional
+",limiteregional.csv
+1,Limite Regional,"Arquivo do Limite Regional
+",limiteregional.json
+2,Limite Regional,"Arquivo do Limite Regional
+",limiteregional.kml
+0,Limite Municipal de Fortaleza,"Arquivos dos limite municipal de Fortaleza
+",limitemunicipaldefortaleza.csv
+1,Limite Municipal de Fortaleza,"Arquivos dos limite municipal de Fortaleza
+",limitemunicipaldefortaleza.json
+2,Limite Municipal de Fortaleza,"Arquivos dos limite municipal de Fortaleza
+",limitemunicipaldefortaleza.kml
+0,Limite de bairros com as informações para os mapas,"Arquivos sobre os limites dos bairros com as informações para os mapas
+",bairros.csv
+1,Limite de bairros com as informações para os mapas,"Arquivos sobre os limites dos bairros com as informações para os mapas
+",bairros.json
+2,Limite de bairros com as informações para os mapas,"Arquivos sobre os limites dos bairros com as informações para os mapas
+",bairros.kml
+0,Dados e Ações da Coordenadoria da Juventude Ref. 2015,"este conjunto de dados contém informações de localização das Praças de Juventude, CEUs, Cucas, Empreendimentos do Projeto Credjovem, Escolinhas de Surf do Projeto Juventude na...",dadosjuventude.xlsx
+0,Rede de Atenção e Cuidado de Fortaleza,"A Rede de Atenção e Cuidado de Fortaleza, no que diz respeito à temática Drogas e outras substâncias psicoativas, compreende diversas instituições sendo ONG’s, Organizações...",rededeatencaoecuidadosdefortaleza.pdf
+1,Rede de Atenção e Cuidado de Fortaleza,"A Rede de Atenção e Cuidado de Fortaleza, no que diz respeito à temática Drogas e outras substâncias psicoativas, compreende diversas instituições sendo ONG’s, Organizações...",rededeatencaoecuidadosdefortaleza.pdf
+0,Paradas de Ônibus - Ref. 03/2015,,paradasdeonibusdasrotas.xls
+1,Paradas de Ônibus - Ref. 03/2015,,paradasdeonibusdesabilitadas.txt
+2,Paradas de Ônibus - Ref. 03/2015,,paradasdeonibus.txt
+3,Paradas de Ônibus - Ref. 03/2015,,terminais.xls
