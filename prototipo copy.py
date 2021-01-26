@@ -2,14 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import os
+from selenium import webdriver
+from selenium.webdriver.support.ui import Select
+from selenium.webdriver.common.by import By
 
-def ler_csv(arquivo):
-    df = pd.read_csv(arquivo, delimiter=',')
-    print(df)
-
-def copiar_arquivo(url):
-    for i in range(1,2):
-        get_url(url+str(i))
 
 def get_url(url):
     html = requests.get(url)
@@ -17,113 +13,108 @@ def get_url(url):
     bs_obj = BeautifulSoup(html.text, 'html.parser')
     dados = bs_obj.find_all('div', class_='dataset-content')
 
-    for i in dados:     
-        #print("==========================================================")
+    for i in dados:
         link_inicial = url.split('/dataset')
-        #print(link_inicial[0] + i.find('a')['href'])
         link = link_inicial[0] + i.find('a')['href']
-        #print(i.find('a').text)
         titulo = i.find('a').text
         texto = ""
         if(i.find('div') != None):
-            #print(i.find('div').text)
             texto = i.find('div').text
-        get_arquivos(link, titulo, texto)
-    
+        get_dados(link, titulo, texto)
+        #teste
+        break
 
-def get_url_old(url):
-    html = requests.get(url)
-
-    bs_obj = BeautifulSoup(html.text, 'html.parser')
-    dados = bs_obj.find_all('h3', class_='dataset-heading')
-
-    for i in dados:     
-        print("==========================================================")
-        #print(i.find('a')['href'])
-        print(i.find_next().text)
-        print("@@@   "+i.find_next().find_next().text + " #####")
-
-def get_arquivos(url, titulo, texto):
+def get_dados(url, titulo, texto):
     html = requests.get(url)
 
     bs_obj = BeautifulSoup(html.text, 'html.parser')
     dados = bs_obj.find_all('a', class_='resource-url-analytics')
-    pasta = "teste/" + titulo + "/"
-    #print(pasta)
-    df = pd.DataFrame(columns=('titulo', 'texto', 'arquivo'))
+
+    #Preenchendo pagina 1
+    nome_organizacao = bs_obj.find('section', class_='module-content').find('h1').text
+    organizacao = Select(driver.find_element_by_id('field-organizations'))
+    print("===============================================================")
+    print("@"+nome_organizacao+"@")
+    #organizacao.select_by_visible_text(str(nome_organizacao))
+
+    visibilidade = Select(driver.find_element_by_id('field-private'))
+    visibilidade.select_by_visible_text("Pública")
+
+
+    driver.find_element_by_id('field-title').send_keys(titulo + "teste8")
+    driver.find_element_by_id('field-notes').send_keys(texto) 
+
+    etiqueta = []
     try:
-        os.makedirs(pasta)
-    except FileExistsError as e:
-        print(f"Pasta {pasta} já existe")
-        #print("Pasta já existe")
+        etiquetas = bs_obj.find('ul', class_='tag-list well').find_all('a')
+        for i in etiquetas:     
+            #etiqueta = i['href']   
+            etiqueta.append(i.text) 
+        for i in etiquetas:
+            driver.find_element_by_id('s2id_autogen1').send_keys(i)
+            driver.find_element_by_id('select2-drop').click()
+    except:
+        print("Não tem etiqueta")
 
-    for i in dados:    
-        arquivo = i['href'].split('download/')
-        
-        endereco = pasta + arquivo[1]
+    driver.find_element_by_class_name('btn-primary').click()
+
+    #Preenchendo pagina 2
+    #driver.find_element_by_id('field-name').send_keys("Titulo3.pdf")
+
+    
+    
+    driver.find_element_by_id('field-description').send_keys("Descricao do arquivo") 
+    
+    for i in dados:         
+        driver.find_element_by_link_text('Link').click()
+        driver.find_element_by_id('field-image-url').send_keys(i['href'])    
         url = i['href']
-        extensao = arquivo[1].split('.')
-        print("=========================================================")
-        print(url)
-        try:
-            #baixar_arquivo(url, endereco)
-            #new_row = {'titulo':titulo, 'texto':texto, 'arquivo':arquivo[1]}
-            new_row = {'titulo':titulo, 'texto':texto, 'arquivo':url}
-            df = df.append(new_row, ignore_index=True)
+        if(dados[-1] == i):
+            print("fim")
+            #driver.find_element_by_name('Link').click()
+            driver.find_element(By.XPATH, '//button[text()="Finalizar"]').click()
+        else:
+            print("outro")
+            driver.find_element(By.XPATH, '//button[text()="Salvar & adicionar outro"]').click()
+        
+    print("============================================")
 
-        except:
-            print(f"Arquivo {arquivo[1]} não foi encontrado")
 
-    df.to_csv('testando.csv', mode='a', header=False)
+def logar():
+    driver.find_element_by_name('login').send_keys("adm-ckan")
+    driver.find_element_by_name('password').send_keys("1qaz#EDC")
+    driver.find_element_by_class_name('btn-primary').click()
     
-
-
-def baixar_arquivo(url, endereco):
-    resposta = requests.get(url)
-    with open(endereco, 'wb') as novo_arquivo:
-        novo_arquivo.write(resposta.content)
-    
-
-
-
-def teste_old():
-    url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset'
-    html = requests.get(url)
-
-    bs_obj = BeautifulSoup(html.text, 'html.parser')
-    #bs_obj = BeautifulSoup(html.text, 'lxml')
-    a = bs_obj.find_all('ul', class_='dataset-list unstyled')
-    b = bs_obj.find_all('h3', class_='dataset-heading')
-    
-    links = [ i['href'] for i in a[0].find_all('a', href=True)]
-    #b = a[0].find_all('a', href=True)
-    #links = [ i['href'] for i in a[0].find_all('a', href=True)]
-    #print(b)
-    #print(type(links))
-    #for link in a[0].find_all('h3', class_='dataset-heading'):
-    for link in links:
-        print("======================================================================")
-        print(link)
-        #print(link['href'])
-    #dataset-heading
-    #df = pd.DataFrame()
-    #print(df)
-    
-
 if __name__ == '__main__':
 
     url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset'
-    #url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset?page={}'
-    get_url(url)
-    #teste(url)
-    # for i in range(1,2):
-    #     get_url(url.format(i))
+    #get_url(url)
+    
+    #url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset/dados-de-onibus-11-03-2015'
+    #get_dados(url, 'a', 'b')
+    url = 'https://hom-beta-dados.fortaleza.ce.gov.br/user/logged_in'
+    driver = webdriver.Chrome(executable_path="./chromedriver")
+    driver.implicitly_wait(10)
+    driver.get(url)
+  
+    logar()
 
-    #arquivo = "testando.csv"
-    #ler_csv(arquivo)
-    #url = 'https://dados.fortaleza.ce.gov.br/dataset/f5db028c-002c-4f3d-96b0-ee835a79bcfa/resource/611c97d1-f599-4d7b-9a5f-47d45b287597/download/rededeatencaoecuidadosdefortaleza.pdf'
-    #baixar_arquivo(url, 'test.pdf')
+    url = 'https://hom-beta-dados.fortaleza.ce.gov.br/dataset/new'
+    driver.get(url)
+    
+    #url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset'
+    #get_url(url)
 
-    #url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset/http-www-fortaleza-ce-gov-br-sites-default-files-rede-de-atencao-e-cuidados-de-fortaleza-pdf'
-    #url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset/limite-municipal-de-fortaleza'
-    #get_arquivos(url, "asdf", "texto")
+    url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset/dados-de-onibus-11-03-2015'
+    get_dados(url, 'a', 'b')
+
+    
+    
+            
+    
+    
+    
+
+      
+
+    #driver.find_element_by_class_name('nome').click()
