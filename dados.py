@@ -44,10 +44,14 @@ def get_arquivos(url, titulo, texto):
         target = i.find('a', class_='resource-url-analytics')
         print(target['href'])
         title = i.find('a', class_='heading')
+        titles = i.find('span', class_='format-label')
+        #clear_button = i.find_element_by_class_name("heading")
+        print("!!!!!!!!!!!!!!!!!!!!!!!!")
+        print(titles.text)
+        print(title.text.strip().replace(titles.text,""))
         print(title.text.strip())
         content = i.find('p', class_='description')        
         print(content.text.strip())
-        break
 
    
     
