@@ -32,31 +32,22 @@ def get_dados(url, titulo, texto):
 
     #Preenchendo pagina 1
     driver.implicitly_wait(10)
-    #try:
 
-
+    #Organização
     driver.find_element_by_id('select2-chosen-3').click()
     organizacao = driver.find_element_by_id('s2id_autogen3_search')
     organizacao.send_keys(nome_organizacao)
-    organizacao.send_keys(u'\ue007')
-    #driver.find_element_by_id('select2-chosen-3').click()
-    #WebElement.sendKeys(Keys.RETURN)
+    organizacao.send_keys(u'\ue007')    
 
-
-    #organizacao = Select(driver.find_element_by_id('field-organizations'))
-    #nome_organizacao = bs_obj.find('section', class_='module-content').find('h1').text
-    #organizacao.select_by_visible_text(nome_organizacao)
-
-
-    
-
+    #Visibilidade
     visibilidade = Select(driver.find_element_by_id('field-private'))
     visibilidade.select_by_visible_text("Pública")
 
-
+    #Titulo e Texto
     driver.find_element_by_id('field-title').send_keys(titulo + "testes")
     driver.find_element_by_id('field-notes').send_keys(texto) 
 
+    #Etiqueta
     etiqueta = []
     try:
         etiquetas = bs_obj.find('ul', class_='tag-list well').find_all('a')
@@ -68,14 +59,12 @@ def get_dados(url, titulo, texto):
             driver.find_element_by_id('select2-drop').click()
     except:
         print("Não tem etiqueta")
-    #except:
-     #   print("Erro: ")
 
+    #Passar Página
     driver.find_element_by_class_name('btn-primary').click()
 
-    #Preenchendo pagina 2
-    
-#def temporario():   
+    #Preenchendo pagina 2    
+    #Preencher Dados
     for i in dados:         
         driver.find_element_by_link_text('Link').click()
         link = i.find('a', class_='resource-url-analytics')
@@ -90,7 +79,7 @@ def get_dados(url, titulo, texto):
         descricao = i.find('p', class_='description')  
         driver.find_element_by_id('field-description').send_keys(descricao.text.strip())  
 
-
+        #Novos dados
         if(dados[-1] == i):
             print("fim")
             driver.find_element(By.XPATH, '//button[text()="Finalizar"]').click()
@@ -98,7 +87,6 @@ def get_dados(url, titulo, texto):
             print("outro")
             driver.find_element(By.XPATH, '//button[text()="Salvar & adicionar outro"]').click()
         
-    print("============================================")
 
 
 def logar():
@@ -108,14 +96,10 @@ def logar():
     
 if __name__ == '__main__':
 
-    url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset'
-    #get_url(url)
-    
-    #url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset/dados-de-onibus-11-03-2015'
-    #get_dados(url, 'a', 'b')
     url = 'https://hom-beta-dados.fortaleza.ce.gov.br/user/logged_in'
     driver = webdriver.Chrome(executable_path="./chromedriver")
-    #driver.implicitly_wait(10)
+    #Esperar 10 segundos
+    driver.implicitly_wait(10)
     driver.get(url)
   
     logar()
