@@ -14,71 +14,65 @@ def get_url(url):
     link_inicial = url.split('/dataset')
 
     for i in dados:
-        global vai
         link = link_inicial[0] + i.find('a')['href']
         titulo = i.find('a').text
         texto = ""
-        #novo = 'https://hom-beta-dados.fortaleza.ce.gov.br/dataset/new'
-        #driver.get(novo)
         if(i.find('div') != None):
             texto = i.find('div').text
             #Renomear para Polícia
-            #Se ja existir renomear
+            #Se ja existir renomear        
         
-        vai = True
-            
-        if(vai):
-            print("=====================================================")
-            print("Ok: " + titulo)
-            print(link)
-            get_dados(link, titulo, texto)
-        else:
-            print("Não: " + titulo)
+        get_dados(link)
+        
         #teste
         #break
 
-def get_dados(url, titulo, texto):
-    html = requests.get(url)
+def get_dados(url):
+    try:
+        html = requests.get(url)
 
-    bs_obj = BeautifulSoup(html.text, 'html.parser')
-    nome_organizacao = bs_obj.find('section', class_='module-content').find('h1').text
-    dados = bs_obj.find_all('li', class_='resource-item')
-
-    #Preencher Dados
-    for i in dados:         
-        print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
-        link = i.find('a', class_='resource-url-analytics')
-        nome = i.find('a', class_='heading')
-        extensao = i.find('a')['title']
-        descricao = i.find('p', class_='description')  
-        print("extensao: "+extensao)
-        print("descricao: "+descricao.text.strip())
-        print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+        bs_obj = BeautifulSoup(html.text, 'html.parser')
+        nome_organizacao = bs_obj.find('section', class_='module-content').find('h1').text
+        dados = bs_obj.find_all('li', class_='resource-item')
+        titulo = bs_obj.find('div', class_='module-content').find('h1')
+        texto = bs_obj.find('div', class_='module-content').find('p')
+        print("===============================================================")
+        print(titulo.text.strip())
+        print(texto.text.strip())
         
 
-def logar():
-    driver.find_element_by_name('login').send_keys("adm-ckan")
-    driver.find_element_by_name('password').send_keys("1qaz#EDC")
-    driver.find_element_by_class_name('btn-primary').click()
+        #Etiqueta
+        etiqueta = []
+        try:
+            etiquetas = bs_obj.find('ul', class_='tag-list well').find_all('a')
+            for i in etiquetas:     
+                #etiqueta = i['href']   
+                etiqueta.append(i.text) 
+           
+        except:
+            print("Não tem etiqueta")
+
+        #Preenchendo pagina 2    
+        #Preencher Dados
+        for i in dados:         
+            print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+            link = i.find('a', class_='resource-url-analytics')
+            print("link: "+link['href'])
+            nome = i.find('a', class_='heading')['title']
+            print("nome: "+nome)
+            extensao = i.find('span', class_='format-label')
+            print("extensao: "+extensao.text.strip())
+            descricao = i.find('p', class_='description') 
+            print("descricao: "+descricao.text.strip())
+            print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+    except:
+        print("Erro: " + titulo)
+        
+  
     
 if __name__ == '__main__':
-    # url = 'https://hom-beta-dados.fortaleza.ce.gov.br/user/logged_in'
-    # driver = webdriver.Chrome(executable_path="./chromedriver")
-    # #Esperar 10 segundos
-    # driver.implicitly_wait(10)
-    # driver.get(url)
   
-    # logar()
-    # df = pd.DataFrame(columns=('titulo', 'texto'))
-
-    #url = 'https://hom-beta-dados.fortaleza.ce.gov.br/dataset/new'
-    #driver.get(url)
-    
-    #url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset'
-
-
-    vai = False
-    for i in range(2, 3):
+    for i in range(1, 16):
         url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset?page={}'.format(i)
         get_url(url)
 
@@ -92,8 +86,5 @@ if __name__ == '__main__':
 
     #Ultimo arquivo
     #https://dados.fortaleza.ce.gov.br/catalogo/dataset/documentacao-de-controle-sim-ref-09-2015
+    #pag 8
 
-    #Olhar com calma
-    #Rede de Atenção e Cuidado de Fortaleza
-    #puxar dados 
-    #Documentação de Controle (SIM) - Ref. 04-2014

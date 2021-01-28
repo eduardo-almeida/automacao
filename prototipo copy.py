@@ -21,22 +21,24 @@ def get_url(url):
         driver.get(novo)
         if(i.find('div') != None):
             texto = i.find('div').text
+            #Renomear para Polícia
+            #Se ja existir renomear
         
-        get_dados(link)
-        #get_dados(link, titulo, texto)
+        print("=====================================================")
+        print("Ok: " + titulo)
+        print(link)
+        get_dados(link, titulo, texto)
         
         #teste
-        break
+        #break
 
-def get_dados(url):
+def get_dados(url, titulo, texto):
     try:
         html = requests.get(url)
 
         bs_obj = BeautifulSoup(html.text, 'html.parser')
-        nome_organizacao = bs_obj.find('section', class_='module-content').find('h1').text.strip()
+        nome_organizacao = bs_obj.find('section', class_='module-content').find('h1').text
         dados = bs_obj.find_all('li', class_='resource-item')
-        titulo = bs_obj.find('div', class_='module-content').find('h1').text.strip()
-        texto = bs_obj.find('div', class_='module-content').find('p').text.strip()
 
         #Preenchendo pagina 1
         driver.implicitly_wait(10)
@@ -53,14 +55,18 @@ def get_dados(url):
         visibilidade.select_by_visible_text("Pública")
 
         #Titulo e Texto
-        driver.find_element_by_id('field-title').send_keys(titulo+"asi")
+        driver.find_element_by_id('field-title').send_keys(titulo+"as")
         driver.find_element_by_id('field-notes').send_keys(texto) 
 
         #Etiqueta
+        etiqueta = []
         try:
             etiquetas = bs_obj.find('ul', class_='tag-list well').find_all('a')
             for i in etiquetas:     
-                driver.find_element_by_id('s2id_autogen1').send_keys(i.text)
+                #etiqueta = i['href']   
+                etiqueta.append(i.text) 
+            for i in etiqueta:
+                driver.find_element_by_id('s2id_autogen1').send_keys(i)
                 driver.find_element_by_id('select2-drop').click()
         except:
             print("Não tem etiqueta")
@@ -116,8 +122,8 @@ if __name__ == '__main__':
     
     #url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset'
 
-    #15 Páginas
-    for i in range(1, 2):
+
+    for i in range(1, 16):
         url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset?page={}'.format(i)
         get_url(url)
 
