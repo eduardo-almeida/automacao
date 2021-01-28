@@ -15,30 +15,31 @@ driver.get(url)
 
 logar()
 
+for i in range(1, 9):
+    url = 'https://hom-beta-dados.fortaleza.ce.gov.br/dataset?page={}'.format(i)
+    #url = 'https://hom-beta-dados.fortaleza.ce.gov.br/dataset'
+    html = requests.get(url)
 
-url = 'https://hom-beta-dados.fortaleza.ce.gov.br/dataset'
-html = requests.get(url)
+    bs_obj = BeautifulSoup(html.text, 'html.parser')
+    dados = bs_obj.find_all('p', class_='mb-1')
+    link_inicial = url.split('/dataset')
+    print("=================================")
+    for i in dados:
+        teste =i.find_next() 
+        complemento = teste['href'].split('/dataset')
+        link = url + "/edit" + complemento[1]
+        #print(link)
+        if(complemento[1] != '/sie-sistema-de-informacoes-educacionais'):
+            print("OK")
+            driver.get(link)
 
-bs_obj = BeautifulSoup(html.text, 'html.parser')
-dados = bs_obj.find_all('p', class_='mb-1')
-link_inicial = url.split('/dataset')
-print("=================================")
-for i in dados:
-    teste =i.find_next() 
-    complemento = teste['href'].split('/dataset')
-    link = url + "/edit" + complemento[1]
-    #print(link)
-    if(complemento[1] != '/sie-sistema-de-informacoes-educacionais'):
-        print("OK")
-        driver.get(link)
-
-        dados =driver.find_element_by_link_text('Excluir')
-        #print(dados.get_attribute('href'))
-        driver.get(dados.get_attribute('href'))
-        driver.find_element_by_class_name('btn.btn-primary').click()
-    else:
-        print("Nao")
-    #break
-#apagar organizacao
-#https://hom-beta-dados.fortaleza.ce.gov.br/organization/edit/sefin
-print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+            dados =driver.find_element_by_link_text('Excluir')
+            #print(dados.get_attribute('href'))
+            driver.get(dados.get_attribute('href'))
+            driver.find_element_by_class_name('btn.btn-primary').click()
+        else:
+            print("Nao")
+        #break
+    #apagar organizacao
+    #https://hom-beta-dados.fortaleza.ce.gov.br/organization/edit/sefin
+    print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
