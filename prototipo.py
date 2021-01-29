@@ -6,6 +6,18 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
 
+
+def get_unique_values(numbers):
+
+    list_of_unique_numbers = []
+
+    unique_numbers = set(numbers)
+
+    for number in unique_numbers:
+        list_of_unique_numbers.append(number)
+
+    return list_of_unique_numbers
+
 def get_url(url):
     html = requests.get(url)
 
@@ -21,12 +33,10 @@ def get_url(url):
         driver.get(novo)
         if(i.find('div') != None):
             texto = i.find('div').text
-        
         get_dados(link)
-        #get_dados(link, titulo, texto)
         
         #teste
-        break
+        #break
 
 def get_dados(url):
     try:
@@ -37,7 +47,6 @@ def get_dados(url):
         dados = bs_obj.find_all('li', class_='resource-item')
         titulo = bs_obj.find('div', class_='module-content').find('h1').text.strip()
         texto = bs_obj.find('div', class_='module-content').find('p').text.strip()
-
         #Preenchendo pagina 1
         driver.implicitly_wait(10)
 
@@ -53,33 +62,38 @@ def get_dados(url):
         visibilidade.select_by_visible_text("Pública")
 
         #Titulo e Texto
-        driver.find_element_by_id('field-title').send_keys(titulo+"asi")
+        driver.find_element_by_id('field-title').send_keys(titulo+" rpg")
         driver.find_element_by_id('field-notes').send_keys(texto) 
 
         #Etiqueta
+        etiqueta = []
         try:
             etiquetas = bs_obj.find('ul', class_='tag-list well').find_all('a')
-            for i in etiquetas:     
-                driver.find_element_by_id('s2id_autogen1').send_keys(i.text)
-                driver.find_element_by_id('select2-drop').click()
+            for i in etiquetas:    
+                etiqueta.append(i.text.strip())
+            etiqueta = get_unique_values(etiqueta)
+
+            for i in etiqueta:    
+                    driver.find_element_by_id('s2id_autogen1').send_keys(i)
+                    driver.find_element_by_id('select2-drop').click()
         except:
-            print("Não tem etiqueta")
+            #Só para tirar a excessao
+            a = 1
 
         #Passar Página
         driver.find_element_by_class_name('btn-primary').click()
 
         #Preenchendo pagina 2    
-        #Preencher Dados
         for i in dados:         
             driver.find_element_by_link_text('Link').click()
-            link = i.find('a', class_='resource-url-analytics')
-            driver.find_element_by_id('field-image-url').send_keys(link['href'])  
+            link = i.find('a', class_='resource-url-analytics')['href']
+            if(link.find("://prod.") >= 0):
+                links = link.split('://prod.')
+                link = "https://"+links[1]
+            driver.find_element_by_id('field-image-url').send_keys(link)  
             nome = i.find('a', class_='heading')['title']
-            #Não precisa mais da extensão
-            #extensao = i.find('span', class_='format-label')
             driver.find_element_by_id('field-name').send_keys("") 
             driver.find_element_by_id('field-name').clear()
-            #driver.find_element_by_id('field-name').send_keys(nome.replace(extensao.text,""))  
             driver.find_element_by_id('field-name').send_keys(nome)  
             descricao = i.find('p', class_='description') 
             driver.find_element_by_id('field-description').send_keys(descricao.text.strip())  
@@ -88,11 +102,12 @@ def get_dados(url):
             if(dados[-1] == i):
                 #print("fim")
                 driver.find_element(By.XPATH, '//button[text()="Finalizar"]').click()
+                print("Ok: "+titulo)
             else:
                 #print("outro")
                 driver.find_element(By.XPATH, '//button[text()="Salvar & adicionar outro"]').click()
     except:
-        print("Erro: " + titulo)
+        print("!!!!Erro!!!: " + titulo)
         
         
 
@@ -111,25 +126,13 @@ if __name__ == '__main__':
     logar()
     df = pd.DataFrame(columns=('titulo', 'texto'))
 
-    #url = 'https://hom-beta-dados.fortaleza.ce.gov.br/dataset/new'
-    #driver.get(url)
     
-    #url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset'
-
     #15 Páginas
-    for i in range(1, 2):
+    for i in range(1, 16):
         url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset?page={}'.format(i)
         get_url(url)
 
-    # url = 'https://hom-beta-dados.fortaleza.ce.gov.br/dataset/new'
-    # driver.get(url)
-    # url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset/realizacoes-da-prefeitura-municipal-entre-2012-2016'
-    # #url = 'https://dados.fortaleza.ce.gov.br/catalogo/dataset/dados-de-onibus-11-03-2015'
     
-    # get_dados(url, 'a', 'b')
+    # Licensa?
 
-
-    #Ultimo arquivo
-    #https://dados.fortaleza.ce.gov.br/catalogo/dataset/documentacao-de-controle-sim-ref-09-2015
-    #pag 8
 

@@ -1,0 +1,3 @@
+botão de excluir não esta funcionando
+numeros na paginação não funcionam
+Tipos de arquivos duplicados
